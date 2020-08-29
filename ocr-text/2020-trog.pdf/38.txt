@@ -1,0 +1,36 @@
+A Comparison of Knot Ascension Systems
+By Jeff McCullen
+There are numerous ascender systems that can be constructed using knots and friction
+hitches. I experimented with some of these systems at the platform and identified some of the
+advantages and disadvantages of each one. In particular, I evaluated two components of knot
+ascension systems: friction hitch choice and whether to use a two or three knot system. In the
+end, my preference is to use helicals with a two knot system because it is easy to slide the
+knots and has two connection points to my harness so I don't have to worry about getting in a
+heel hang.
+There are numerous friction hitches to choose from. The ones I decided to evaluate were
+the helical, prusik, klemheist, and hedden (upside-down klemheist). The helical was the easiest
+to slide after loading, however, it required more time to tie and practice to reduce the slack to
+minimize the stretch after loading. Unlike the other friction hitches, it is tied with a single line of
+rope rather than a loop, which makes it possible to untie it from the rope without first untying the
+end that ties into your harness during a changeover. The prusik did not stretch as much and,
+unlike the helical, tightened automatically so there was no need to worry about reducing the
+slack. However, it binded easily, especially with six coils, requiring me to loosen the bridge of
+the knot to begin sliding the hitch again. Unlike the other friction hitches, the prusik can be
+loaded in both directions, making it suitable for traverses. The klemheist and hedden hitches
+were similar to the prusik but less prone to binding after load and only able to be loaded in one
+direction. However, neither of these was as easy to slide as the helical.
+A knot ascension system can use two or three knots. In a three knot system, at least one
+point of contact must connect to your harness and the other two can attach to your feet with
+"chicken loops” so that, if your top knot capsizes, you will get caught in a “heel hang”. To ascend
+the rope, you slide your top knot (which is attached to your harness) up about as high as your
+head and sit down on it. With the top knot weighted, slide your bottom two knots (which are
+attached to your feet) up. Finally, stand up on your bottom knots, unweighing your top knot so
+you can slide it up again. In a two knot system, both points of contact must connect to your
+harness. The top knot attaches to your harness in the same manner as in a three knot system.
+However, your lower knot attaches to your harness as your backup in case the top knot
+capsizes. A loop in the same cord extends down to your feet but there is no need for chicken
+loops because you already have a backup attachment point on your harness. To ascend the
+rope, you slide your top knot up, weight it, and step down on the loop extending from your
+bottom knot, allowing you to slide your top knot up again. This two knot ascension system is
+called the "texas kick”.
+38

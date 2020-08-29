@@ -1,0 +1,30 @@
+Lines Of Position (LOPS)
+'Vertical rece pe loop nulled along several
+LOPs which all pass thru Ground Zero
+--Ground Zero (precisely vertical loop nulls in any
+direction here)
+MAGNETIC FIELD SHAPE CENTERED ON GROUND ZERO
+(Overhead wiew)
+Figure 1: Lines of position (from http://radiolocation.tripod.com)
+Cole and Ray Sira operated the radio location transmitter and surveyed from the Mud Bridge radio
+location point, to a radio location point located about halfway between the mud bridge and the back
+entrance, and then finally to the back entrance. An above ground survey from the lower entrance to
+the two ground zero locations was done by Scott Rapier, Steve Wells, and Sandy Knapp. You can
+think of the radio location measurement as a plumb line depth measurement, but just through rock
+instead of open air. With this in mind, you can see from Figure 2 that there are two independent
+closed loops created by the survey.
+SG
+$5
+si Surface Slope
+Loop 1
+Loop 2
+s21
+S
+$4
+Cave Floor
+lower entrance
+2nd Radio Site
+Mud Bridge
+1 st Radio Site
+Figure 2: Line plot of survey data and radio location information
+The Tech Troglodyte, Spring 2003

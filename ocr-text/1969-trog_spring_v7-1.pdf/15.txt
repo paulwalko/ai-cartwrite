@@ -1,0 +1,54 @@
+14
+SPRING
+THE TECH TROGLODYTE
+1969
+defect, the faster it can be remedied. The responsibility
+of paying for damage depends, of course, on the circumstances
+under which it occured.
+In conclusion, it must be said that the sign-out system
+has worked very well. However, by bringing to the attention
+of the club the reasons why we must try to keep equipment
+readily available, it is hoped that all members will be more
+inclined to think of others when they check out equipment,
+If everyone, old and new members alike, will keep these
+things in mind, we will be able to get a lot of use out of
+the limited amount of equipment that we have, and hopefully
+to keep inconvenience to anyone at a minimum,
+Doug Perkins
+..
+*
+*
+*
+*
+*
+... CLIMBING CAM FORCE ANALYSIS
+LISIS .
+Much controversy has arisen in the last year concerning
+the safety of using a VPI Grotto type climbing cam on
+goldline rope, Many members of the Grotto have gone as far
+as to ban the devices from their ropes, because of supposedly
+damaging pressures resulting from the cam's contact with
+the rope,
+. Because of the controversy over the cam, a model of
+which (see NSS NEWS November 1965), was built by Tom Roehr
+and John Katon, Russel Peterson and myself decided to put
+the little machine to the test.
+To analyze the forces encountered in a cam's normal
+use we put a 150 pound load on a cam and let it hang from
+a short piece of goldline, Angular measurements were
+taken immediately to avoid any errors due to creep, It was
+found that the cam would sit at an anglé: of 45 degrees to
+the verticle when under loading. Using the 45 degree angle.
+and summing moments around the cam pivot, point "A",
+the forces on the goldline and the pin were computed,
+In doing this it was assumed that the rope would make
+contact along the bottom half inch of the cam. Referring
+to the diagram, the force at point "D" was found to be
+116,80 pounds. The forces increase as the points move closer
+to the pivot, "A", until a force of 262.50 pounds 15 found
+at the point of final contact, point "C", Forces on the
+pin, point "A", were found to be 81.2 pounds in both the
+horizontal and vertical directions,
+* The most interesting result, of course, was the total
+pressure delivered to the rope by the cam, TO compute the
+pressure of an area one half inch by one half inch

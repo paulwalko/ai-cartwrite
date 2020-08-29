@@ -1,0 +1,42 @@
+Bats: Pilots of the Underground
+Kyle Daniel
+Bats: The defacto spiritual animal of all cavers. These damn cute creatures not only eat annoying
+insects but are also extremely talented pilots. Imagine some of the places you may have seen bats, deep in
+passages past many tight twists and turns. To be able to fly in these confined spaces bats must have
+incredible maneuverability as well as the ability to hover. These unique creatures have incredible
+aerodynamic control that is a direct result of the complicated structure of their wing and the inherently
+unsteady dynamics of their flapping flight.
+This fact has not gone unnoticed by researchers. Recently a group at Brown University
+performed experimental measurements on bat flight in order to study the kinematics of the wing motions as
+well as the flow structures in the wake behind the bat. To achieve this, the researchers in this study took high
+-speed video of straight, forward flight as well as PIV measurements of the resulting wake. PIV is an
+acronym for a flow imagining technique called particle imagine velocimetry. This technique allows the
+calculation of the magnitude and direction of velocity vectors in a given imaged area. For this technique to
+work a flow is impregnated with tiny particles called seed. A high power light source, usually in the form of
+a laser sheet, illuminates a slice of flow while a high speed camera takes a picture of the illuminated seed
+particles. Two pictures of the flow are taken in quick succession and loaded into a software program. The
+position and direction that each particle moves in between images is calculated on a statistical basis. By
+knowing the distance and direction each particle travels as well as the time between images, a velocity vector
+at each point is calculated.
+Lesser short-nosed fruit bats were the subjects of all tests. These natives of Southeast Asia natives
+were chosen because they do well in captivity and respond well to handling and training. During the tests,
+reflective markers were attached to key points on the bat’s chest and wings using medical adhesive. The
+bats were then directed to fly along the length of an enclosed flight cage while two specialty low light
+cameras captured their body and wing movements.
+The recorded video showed that the motion of one wing beat is highly articulated and much more
+complex then the flapping motion of the wings of birds and insects. The researchers found that the shape of
+the bat’s wing, as well as its relative position, changed drastically during forward flight. This is enabled by
+the fact a bat’s wing has more than two dozen independently controlled joints which allows it to stretch and
+deform. During flight the wing experienced periods of both positive and negative angle of attack (angle
+between the incoming flow and the chord of the airfoil) and the camber of the wing changed dramatically,
+resulting in complex 3-D surfaces. In comparison, the shape and angle of attack of the fixed wing of an
+airplane in steady forward flight remains constant and can be easily modeled as a 2D structure.
+However, characterizing the kinematics of flight is not enough to describe the aerodynamic control
+achieved by bats. How the flow interacts with the complex 3D shape of the wing and resulting aerodynamic
+forces must be evaluated. To better understand this, the researchers took PIV measurements of the wake
+behind the bat as it flew. This technique was performed on the wake of a bat by lightly misting the air with
+DEHS (di-ethyl-hexyl-sebacate) particles. This mist is non-toxic and had no apparent effect on bat
+behavior. They then placed a laser beam-break sensor in the flight path of the bat. After the sensor was
+tripped and a set lag time passed, a low power laser sheet illuminated the flow volume directly behind the
+bat. Through the collected PIV data the researchers identified a complex wake vortex structure.
+70

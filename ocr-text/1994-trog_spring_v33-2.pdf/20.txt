@@ -1,0 +1,40 @@
+the public terminals in the Blacksburg Library for free. Your PID can be obtained from
+BEV, or at the B'burg library, without paying the modem access charges.
+A few people may live in places that access the Internet via a local network,
+called an Ethernet. Ethernet access is available from Tech Terrace, Jefferson
+Apartments, parts of Foxridge, and The Chase. Ethernet provides a much faster
+connection than a modem, but you will need a 10-BaseT Ethernet card for your
+computer, which costs more than a modem: at least $60, typically $100; check at the
+bookstore. You will also need a cable from your computer to the Ethernet jack,
+another $15. In addition, there is a $5 a month Ethernet fee to the university. Bell
+Atlantic owns the Ethernet off campus, and are currently waiving charges, but if they
+do decide to charge, it will likely be $15-20 per month. You will need to call Bell
+Atlantic to activate your Ethernet wall plug.
+OK, are you interested? Well then, here's what you need to do. I advise
+finding someone who has set up a system like you'll be using, and getting them to
+help you. There are also phone numbers to call for assistance in the documentation
+that you'll get with your software.
+STEP 1: GET A PID
+There is no difference between a VT PID and a BEV PID. If you have one, you
+don't need the other. If you already have a computer account with Internet
+access, you don't need a PID; skip to step 5: join a list.
+Everyone must read and agree to the “Acceptable Use of Information Systems
+at Virginia Tech“ statement before a PID will be issued. This document is
+reproduced at the end of this article.
+A. VT students, faculty, staff: Students will need to go to one of the computer
+labs on campus, and hand in the APPLICATION FOR A PID, reproduced at the
+end of this article. Faculty and staff can mail their PID application to PID
+Registration, Campus Box 0214.
+B. Not affiliated with VT: You will need to apply for a PID at the Blacksburg
+Electronic Village office. The form is reproduced at the end of this article. The
+BEV office is located in the lobby of the Information Systems Building, 1700
+Pratt Drive (in the Corporate Research Center, near the entrance to the Virginia
+Tech Airport). The office is open from 8 a.m.-1:00 p.m. every Tuesday, 9 a.m.-
+1 p.m. every Thursday, and from 3-5:00 p.m. every Wednesday. The phone is
+231-4786. You will need to bring a picture ID with you. Allow two weeks for
+processing if you are getting accounts set up to access the Internet from at
+home.
+STEP 2: GET HARDWARE (OPTIONAL!)
+As part of the Blacksburg Electronic Village project, the Blacksburg Public
+Library has four computers that you can use to read and send e-mail. Once
+18

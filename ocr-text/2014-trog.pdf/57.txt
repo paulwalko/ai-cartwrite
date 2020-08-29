@@ -1,0 +1,85 @@
+57
+Below is the sample excel spread sheet from sheet 2 in the same excel document. Sheet 1 holds all of the other data
+discussed above. The first example image is a set of data for the monthly caving tracker. It tracks how long you were under-
+ground during that month, and how many trips you went on during that month too. Setting up the plots is the most complicat-
+ed part so if
+A
+C D E F G H I J K L M
+you want to
+Additional Cave Data and Plots
+learn how, find
+Monthly Data
+a resource
+Month
+Hours Trips
+online or talk
+Jan-14
+16.5
+Feb-14
+10.5
+to someone
+Mar-14
+who knows
+Totals
+Hours
+excel! Doing
+Trips
+the Total
+0
+Apr-14
+33.5
+hours
+and
+14
+15
+16
+17
+18
+Trips is exact-
+Jan-34 feb-14 Mar-14 Apr 14
+Month
+ly the same
+way you do on
+the first sheet. For calculating the hours and trips per month, I would recommend updating, or adding, the hours of a trip to
+that month directly after your cave trip as well as adding a trip to that month. The example is the detailed cave information.
+Generating the plot is very similar to generating the monthly caving plot as well. There is more math involved with this set
+though, but only if you wish to do it. For calculating the totals again, just do a summation of the preceding column of data
+above. To calculate the %hours, click cell E23 and in the fx bar type in: =C23/$C$28*100. This will then calculate the percent-
+age of hours spent in Tawneys to the overall hours spent caving. The same thing can be done similarly for the trips
+22
+24
+10
+Cave Trip Details
+Cave
+Hours Trips % Hours % Trips
+Tawnyes
+6.5 2 19.40299 33.33333
+Clover Hollow
+1 29.85075 16.66667
+James
+2.5 1 7.462687 16.66667
+Culverson Creek 8 1 23.8806 16.66667
+Newberry/Banes 6.5 1 19.40299 16.66667
+Totals
+33.
+56
+25
+LLIE
+Hours
+Trips
+Tawnyes
+Clover Hollow
+James
+Culverson Creek
+Newberry/Banes
+Cave
+35
+36
+(F23=D23/$D$28*100). This can then be done for every single cave as well, by clicking on E23 (or F23) then moving the cur-
+sor to the bottom right corner of the cell until the cross arrow changes to a diagonal arrow, left click and drag down to row 27.
+The $C$28 uses the $ symbol to keep that part of the equation exactly the same. So that's about it! You can of course add your
+data manipulation like trends, or if you are project caving, how many feet you survey along with bat and hour counts. My cur-
+rent spreadsheet as of March 31, 2014, and starting in September 2010, is 118 rows long, with 106 cave trips, 511 hours, 198
+seen bats since December 19th, 2013, with a total of 41 different caves I have been to. I plan on to continue updating this after
+college and also find other various ways to play with my cave data. I hope this helps to inspire you in your caver nerd side! It's
+always just a good idea to document caving activities too.

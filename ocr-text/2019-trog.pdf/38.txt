@@ -1,0 +1,25 @@
+RACKS AND BOBBINS AND CARABINERS, OH MY! - PHILLIP MONEYHUN VPI
+#451
+An often overlooked aspect of vertical caving equipment is the specifics of carabiner
+interaction. There have been documented deaths and injuries each of the issues presented
+below. Learn from the mistakes of others to keep from becoming a statistic.
+Racks require a special consideration. SAD, or Sudden Accidental Disconnect, is a
+phenomenon which occurs when a rack is deweighted, twisted, and then reweighted
+resulting in the eye of the rack breaking the gate of the carabiner and potentially leaving the
+user to air-rappel the remainder of the drop. This can be addressed by using a screwlink
+instead, or an anti-crossloading carabiner. However, it is still important to ensure that the
+rack is attached and oriented correctly no matter what you are using. The same problem
+exists with figure-eight devices, but seems to be less likely. My preference is the Petzl “ultra
+rapide" screwlinks.
+Bobbin rappel devices, such as the Petzl Simple and Petzl Stop, have a similar issue. It
+is possible for some carabiners to twist and open the bobbin gate latch, which can allow the
+rope to come out of the device leaving the user to fall. There does not exist a comprehensive
+list of compatible carabiners, so users should test to make sure their carabiner is safe. “Fatter”
+carabiners will tend to be safer. The lightest "safe" carabiner for the Petzl Stop and Simple
+with the black plastic gate I have yet found is the Black Diamond Positron Screwgate. Under
+no circumstances should a screwlink be used to attach a bobbin.
+Bobbins also require the use of a braking carabiner. The braking biner does not have
+to be full strength, but it must be strong enough not to deform under normal use. The natural
+position is directly to the right of the bobbin on the d-link. However, there is a risk if the
+braking carabiner is too large. If a force is applied to the braking end of the rope, such as a
+38

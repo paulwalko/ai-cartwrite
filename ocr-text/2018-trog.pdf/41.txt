@@ -1,0 +1,35 @@
+Cave Charcuterie
+Kyle Nenninger
+I love food. More specifically for the purposes of this article I'm into cured meats, charcuterie, and generally
+anything I can create and carry in a pack for an indefinite period of time. Needless to say I spend a lot of
+time thinking about what food to take with me into a cave, but what about food that can be produced in a
+cave? Better yet, what about food from a cave to be eaten in a whole different cave? Historically caves
+have been used for cellaring food, to the extent that cheeses such as Roquefort have a protected
+designation of origin and must be aged within specific caves under EU law, but what could I accomplish in
+my own back yard?
+I had some specific concerns regarding aging food in a cave, namely that I would lose the degree of control
+over the environment that I would have had aging it in a converted cooler or even a cellar. That said there
+has been a lot of great research coming out in recent years about biodiversity in caves due to the rapid
+appearance of white-nose syndrome in 2006-2007, and there's something to be said for knowing what
+you're up against. Notably in 2013 the International Journal of Speleology published "A world review on
+fungi, yeasts, and slime molds in caves," a compilation of existing research. This review lists more than 1000
+cave-dwelling species, ranging from the bacteria responsible for botulism, tetanus, Weil's disease, as well
+as flesh-eating varieties and the fungus responsible for histoplasmosis or "Cave disease." Well that doesn't
+sound even slightly fun.
+The important thing to remember, though, when working with and around bacteria is no matter what you
+do your food will become contaminated, and you need a strategy for dealing with that. There are a few
+options here: you can consume the food before the bacteria gets to problematic levels, you can kill the
+bacteria (and, if it produces toxins, denature them), and you can find ways to halt or slow its growth. For
+things aged in a cave #1 is out by default, and #2 becomes problematic as it most commonly requires fire.
+This leaves us with #3: creating conditions that are otherwise hostile to undesirable organisms.
+According to the USDA temperatures lower than 42F (equivalently refrigerator temperature) prohibit
+organism growth sufficiently that food held at these temperatures will remain safe for consumption for a
+more substantial period of time. Caves are not this cold - averaging 50F around SWVA - but this isn't as hard
+of a line as it's portrayed, and temperatures below 60F still do something to inhibit growth.
+The pH of an environment, how acidic or alkaline it is, has a fairly wide range of effects on potential
+infections. Most commonly when speaking of pH it's in relation to growth of lactobacillus and similar
+"probiotic" lactic acid-producing bacteria responsible for the fermentation of everything from yogurt to
+kimchi to summer sausage. With the use of a starter culture, and salt, we create conditions that allow these
+bacteria to acidify their environment quickly enough that they are able to out-compete other, less desirable
+species.
+41

@@ -1,0 +1,44 @@
+method called SLAM, Simultaneous Localization and Mapping, to image. As the internal laser
+showered the walls with laser light, collecting distance information of each point, a 3D structure
+would be recorded almost instantaneously not only of the surrounding rock, but would also rec-
+ord the location in the surrounding cave of where the sensor was located. From the map that's
+created as you walk the sensor along the cave you could produce 2D maps, 3D printed models,
+discover how close to the surface potential dead runs lead, and have a better idea of how the
+cave was formed. Though costs for these units have been prohibitively expensive recent break-
+throughs in research have brought costs down tremendously, almost to a hobbyist level.
+The Future
+Cave surveying will certainly be a useful tool in the near future although, like the telephone re-
+placed the carrier pigeon, 3D mapping may replace cave surveying. Higher accuracy, faster
+mapping times, and increased data collection are all reasons to adopt this new technique. Dirt
+and water can be challenging with precision electronics and may be a reason to continue teach-
+ing the older techniques. Water, being highly reflective, can mess up distance measurements
+leading to incorrect maps. Dirt can fall onto the lens and prevent any data from being taken.
+Time spent underground holding tape measures and sketching unique features would be lost,
+dropping your notebook in slime-y mud would be a thing of the past. Old timers could emerge
+from their caves and yell about how new technologies can lead to youngsters never learning
+the traditional techniques that everyone has grown up on. Techniques that instilled a true love
+for nature and internal calling to live underground.
+Lost Skills
+Any new skill can lead to forgetting older ones, and the old timers may have a point. With the
+carbide lamp test being pushed away due to the availability and affordability of LED headlamps,
+maybe soon even our cell phones will be able to map the cave for us. A form of technology that
+we've rapidly adopted since its invention. We'll be flooded with methods to map the world be-
+low us, what happens when we forget why bringing a pencil and paper underground was im-
+portant? How do we continue to adopt newer and more accurate methods of mapping without
+losing the valuable lessons, skills,
+and experiences that are gained
+through the older ones? Is more
+gained by spending more time
+surveying the cave than just walk-
+ing through it with one of these
+fancy new sensors? There are mil-
+lions of questions during any
+change that you can ask and a lot
+than can be lost. The big ques-
+tion, I think, that we should be
+asking is how we move forward
+while continuing to carry along the
+important lessons and experiences
+gained through using older tech-
+niques.
+45

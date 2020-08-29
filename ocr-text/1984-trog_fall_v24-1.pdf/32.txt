@@ -1,0 +1,55 @@
+30
+the C-8 to do, Anyway, the operator also needs someone to
+go drink beer with after spending 6 to 9 eye-frying hours
+at the plotter.
+To begin compilation, I indexed the digitizer using
+several vertical control points, alternating between them
+until I got reasonable agreement of elevation values. I
+then started plotting.
+Planimetric features, such as buildings, roads, and
+vegetation are usually plotted first. They are traced by
+the floating mark, which the operator always keeps in
+contact with the ground as the elevation changes. After
+plotting the planemetric features, contouring may begin.
+Ideally, contours are plotted by setting the floating
+mark at the desired elevation and moving the floating mark
+along the ground using the handwheels while not touching the
+footwheel, thus producing a line of constant elevation,
+Initially, however, the novice operator must drop spot
+elevations and play connect the dots. This takes about five
+times as long as following the contours and soon creates a
+panic situation as he or she comes to the realization that
+half of the allotted compilation time has been burned up on
+one tenth of the map. Thus one is worried into spending
+many eye trashing hours at the plotter trying to learn to
+follow those elusive contours; but the technique, like
+riding a bicycle, once mastered is never forgotten,
+LOCATING THE CAVE ENTRANCES
+As mentioned earlier, the caves couldn't be located
+photogrammetrically since the woods were in full leaf at the
+time of the photography. It was therefore necessary to
+traverse from each photo control point up to the correspond-
+ing entrance, tying directly into the entrance stations of the
+underground surveys when possible. I soon appreciated why
+Dr. Johnson refused to do this part during the summer lab;
+it turned out to be almost as time consuming as compiling
+the map!
+The first survey trip almost qualified as a fiasco, :
+mainly because of a faulty instrument. I read the instrument,
+a Wild T-60-D theodolite with a 30" vernier; Mike Gaydosh,
+also a veteran of the summer lab, kept book; while John Lohner,
+Richard Cobb and Pat Nijkenson, gave me stadia shots with a
+few moon shots thrown in for effect. The problem was that
+the vertical compensator, which uses gravity to define up
+and down for the instrument, stuck 5 minutes away from ver-
+tical about every third shot, causing a discrepancy between
+the forsight and backsight. It's quite un-nerving to appa-
+rently be screwing up every third shot when you could swear
+that you're reaaing it correctly. I was getting quite a
+complex when Mike remembered something one of the Teaching
+Assistants had said and smacked the instrument with his
+field book. The vertical circle popped back to what it was
+supposed to read and all was OK, except that we had burned
+up so much time re-turning screwed up vertical angles that
+we didn't accomplish nearly as much as I had hoped we would
+that weekend. We did, however, manage to pick mass quantities

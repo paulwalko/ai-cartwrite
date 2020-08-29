@@ -1,0 +1,56 @@
+24
+2.
+Photo control points accurate to at least 1/5 of a
+contour interval, or 2' in this case. These were also
+located more accurately.
+Basic control 10 times more accurate than the photo
+control, or good to at least ,2',
+3.
+ا
+س
+با
+Establishment of Control
+Control was established in three parts:
+1. Basic Control consisting of monumented points set by
+a combination of triangulation and trilateration and
+double rodded leveling,
+Photo identifiable control points set by coming off
+the nearest basic control point using side shots,
+spur traverses and trigonometric leveling.
+Barometric leveling to obtain elevations to be used
+as rough checks in the plotter orientation process.
+Barometric levels (barometers or altimeters) use dif-
+ference in barometric pressure to register difference
+in elevation. The weakness of this method is the
+assumption that the barometric pressure stays constant
+for an elevation. Although the pressure sometimes
+varied slightly, the elevations were accurate enough
+(+ or - 1.5!) to be helpful in the initial part of
+the orientation, an interative process, for the 10'
+contour interval map.
+Mountainous terrain, forrested land, and large mapping
+area size presented the class with new and challenging prob-
+lems. Communication was usually only possible through field
+radios. Travel time was almost half an hour between some
+stations. Photo identifiable points were scarce, especially
+since the Highway Department photos were taken in 1971. Finally
+the shots were relatively long (some were over a mile).
+These physical factors and other problems such as only five
+people in the class, the project area being almost an hour
+away from Campus, and being allotted only three days to
+perform the survey, made organization and planning essential.
+Four of the people in the class spent the first day with
+a Path automatic level and two Philadelphia rods running a
+level "loop" down the two mile long gravel road (SR 608) that
+runs parallel to Walker Mountain. They used a technique
+called double-rodded leveling which provides redundant
+elevations, thus eliminating the need for backtracking, and
+takes much less time than conventional leveling procedures.
+Professor Johnson called it fly leveling because, he said,
+we'd have to fly down that road to get it done in one day.
+He was pleasantly surprised at the end of the day (about 7
+P.M.) when we told him it was done. The finished loop
+included temporary benchmarks along the road to be used as
+vertical control points, and two USGS control points located
+at road intersections to be used to orient the vertical
+control for the project to mean sea level.

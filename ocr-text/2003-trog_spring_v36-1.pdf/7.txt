@@ -1,0 +1,38 @@
+Philip fed the survey data into a survey program called Survex (http://www.survex.com), and it
+calculated vertical distance for each set of the radio location points. We now had two ways of
+determining the distance from points on the surface to the points in the cave.
+The calculated survey distance at the Mud Bridge was 183 ft and the radio location depth by absolute
+signal strength was 179.6 ft. Because the depth calculated from the radio location and the depth
+calculated from the survey contain some errors, we do not know which one is correct. Since they are
+close, we are reasonably confident that if we drilled a hole 179.6 ft, we would be quite close to the
+station. The second station was similar, 113 ft found from the survey data and 108.75 ft. from the
+radio location data.
+With this, we have verified the radio location equipment and equipment operator are working
+according to design. There are several situations where this data would be useful. With the radio
+location equipment it is possible to drill into the cave. This is important for; cave rescue missions,
+tapping into water sources, and creating new entrances. Since it is possible to accurately locate points
+on the surface using GPS and other survey instruments designed for accurate surface survey work
+(but entirely useless underground) radio location can also be used to improve the accuracy of in cave
+survey done with handheld compasses. Finally, Brian Pease has an excellent website at http://
+radiolocation.tripod.com that has far more detailed information about the theory and practice of cave
+radio location. Furthermore, the website has information about how to build your own radio location
+equipment.
+Cavers Help Build Barn for Thompsons
+By Michael Cole
+Saturday April 12, 2003, eleven cavers from the club headed down to Bland County to help Jerry and
+Molly Thompson set supports for a new barn. The Thompsons farm field where the club holds its
+annual picnic, and every year we try to thank the owners by offering our help with work around their
+farm. A few years ago, the club tore down the old collapsed shed that was directly in front of the
+Thompson's home. The lumber from the shed was quickly transformed into firewood for Picnic.
+This year, VPI cavers Kara Smith, Cameron Keyes, Mark Eisenbies, Steve Wells, Ray Sira, Mike
+Cole, Philip Balister, Scott Rapier, Sandy Knapp, Joe and Carol Zokaites arrived at the Thompson's
+house at ten o'clock ready to work..
+No time was wasted; everyone immediately turned around and drove down the road to the site where
+Jerry had laid out where he wanted his new barn. The new barn is located directly across from Buddy
+Penley's old brick house. The first step of the project involved digging holes for the supports, which
+were old telephone poles. This didn't take long thanks to Jerry's auger drill attachment for one of his
+tractors. The auger wasn't able to dig all the holes because of large rocks in the way. Holes with rocks
+were hand dug. Kara and Cameron became the experts at getting the large rocks out of the holes,
+which made way for others to come dig the holes the rest of the way with post hole diggers. Once all
+the holes were ready, we began placing the poles into the holes.
+The Tech Troglodyte, Spring 2003

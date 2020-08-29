@@ -1,0 +1,36 @@
+105
+The preceeding discussion probably sounds rather sacrilegious to
+many respectable, conservation-minded cavers. This is one of those
+rare instances where caving philosophy and conservation ethics are in
+direct opposition, but I think the end justifies the means. The
+reader will please note. at this point that I have carefully refrained
+from including any suggestions about gypsum smashing and helictite
+blasting. In this case, decisions will be dictated by conscience.
+It should be obvious by now that common sense and a little ele-
+mentary knowledge of rock mechanics are essential in almost any type
+of cave blasting. It would be ridiculous to even attempt to describe
+and evaluate all of the possible situations and problems that can occur;
+however, a simple analysis of a few important mechanical characteristics
+of rock is very helpful for determining where the charge should be
+placed." The efficiency of a blast is dependent upon the type of explo-
+sive, the condition and type of rock, the geometrical distribution of
+the charges on the surface of the rock, and the coupling between the ex-
+plosive and rock.
+The internal stress developed in the rock as a result of the ex-
+plosive force determines the fracture and extent of fragmentation which
+occurs. Å given quantity of explosive will transmit more energy and
+thus develop a higher internal stress if the charge is in close contact
+with the rock. The following graph should illustrate how an air gap
+between the explosive and rock affects the peak stress. For a one-inch
+air gap the peak stress is only about one third as great as for a di-
+rect contact charge.
+Jon :::.
+SK
+Peak stress
+(PSIX10-3)
+Size of air gap (in.)
+-
+his mentioned before, confinement of the charge is very desirable.
+The following graph can be used to show that even a small amount of
+confinement greatly increases the peak stress.
+-------------

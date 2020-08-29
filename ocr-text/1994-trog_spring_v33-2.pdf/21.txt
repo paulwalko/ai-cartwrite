@@ -1,0 +1,38 @@
+you have a PID, you can use those machines. This would provide a free way
+to see if you like e-mail. Otherwise, you will need the appropriate hardware for
+your location, as discussed previously.
+STEP 3: GET SOFTWARE (OPTIONAL!)
+If you decide to use the Blacksburg Public Library terminals, the software that
+you will need is already there, installed on those machines. If you decided to
+work at home, read on.
+A. BEV software If you are not a VT student, faculty or staff, or if you use the
+Ethernet, this is what you will need. You may want it anyway, even if you don't
+need it, due to the gopher feature, (next paragraph). BEV software is available
+from the BEV office; get it when you apply for a PID. You will need to install it
+on your computer, and customize some settings. The BEV office has
+instructions. If you have installed software before, it shouldn't be too bad, but
+don't hold me to that.
+In addition to e-mail, the BEV software has a feature called gopher which allows
+you to search for and access information from any other computer in the world
+which also has gopher. It is not necessary to use this for e-mail lists, so I will
+only say two words about it: is cool.
+B. Eris software This software allows VT students, faculty and staff to access e-
+mail from home, via a modem, at no charge. It does not work with Ethernet.
+Unlike access to most university network services from off campus, which
+requires a modem pool account (not free), Eris has a separate phone number
+for access and does not require a modem pool account.
+On-campus cavers can also use Eris. It is easier to use than the BEV software,
+but does not have gopher. You can get both types of software, if you wish, as
+Eris has a couple of things that BEV does not (later).
+Eris software is available from either the AJ or Hillcrest computer labs. Bring in
+a.formatted, hi-density, 3.5" diskette. You will get a diskette with the Eris
+software and some documentation.
+Eris services, in addition to e-mail, include an on-line version of USA Today,
+and a calendar of university events.
+STEP 4: LOG ON THE FIRST TIME
+Everybody will need to set up the software on their computer. The
+documentation should help; an experienced friend would really help.
+You will also need to change the password that you gave when you signed up.
+(You will get a message that your password is expired.) The information packet
+that you receive will tell you how to do this.
+19

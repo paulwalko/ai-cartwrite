@@ -1,0 +1,43 @@
+108
+For most practical applications in cave blasting, the optimum
+fracture area for a cubic foot of rock is roughly 11,500 square feet.
+From this the total fracture area can be easily calculated for the
+volume of rock which is to be blasted. For example, for two cubic
+feet it is necessary to produce (2x11,500=23,000) square feet of frac-
+ture area; for one-half cubic feet the total fracture area would be
+(2xll,500=5750) square feet. This relationship is somewhat arbitrary,
+however, for most situations encountered in cave blasting it is accu-
+rate enough when used to calculate contact charges confined by a mudcap.
+The following equation can now be used to describe the relation-
+ship between explosive and rock. It can be used to calculate the quan-
+tity of a particular explosive necessary to blast a given type and
+quantity of rock. Data has been presented for the common dynamites and
+the rock that is most often found in caves.
+P = fA
+2000E
+P=number of pounds of explosive,
+f=fracture energy of rock.
+A=total fracture area of rock to be blasted.
+E=explosive energy of dynamite.
+The application of this equation is relatively easy but it should
+not be used as a substitute for common sense when calculating the charge
+size. One of the best methods for practicing blasting is to set up an
+experiment with small iblasting problems". I would strong ly suggest
+practicing the basic techniques above ground, say in an abandoned
+quarry, before trying them in a cave.
+Example Problem
+How much 60% dynamite applied as an external charge is needed to
+blast three cubic feet of limestone?
+Solution:
+la = 3x11,500 = 34,500 sq. feet, total fracture area.
+f = 208 foot-pounds/sq. feet, fracture energy for
+limestone.
+E = 800 foot-tons/pound of explosive, explosive
+energy for 60% dynamite.
+P = ? pounds of 60% dynamite required.
+Substituting in the equation:
+P = fb/2000 E
+P = (208 ft-lb's/ft2)(34,500 ft2)
+T2000 lbs/ton)(800 ft-tons/īb of explosive)
+P = 7.176 x 100) 1.6 x 106 lbs.
+P = 4.5 pounds of 60% dynamite.

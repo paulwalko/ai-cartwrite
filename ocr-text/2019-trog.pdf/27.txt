@@ -1,0 +1,30 @@
+HOW TO SET UP A CLIMBING SYSTEM - PHILLIP MONEYHUN VPI #451
+So you're thinking about building a climbing system! Woohoo! Here's a few paragraphs of
+unsolicited but strongly held opinions. Some things you hear or read will contradict what |
+have written. Good luck with that! When in doubt, Alpine Caving Techniques is the bible and
+be careful about taking “On Rope” too seriously.
+Here's what you'll need:
+•
+D-link
+o This is essential for any caving-style harness. Do not buy a harness that
+doesn't use a D-link.
+O Easily available options include galvanized steel, stainless steel, or aluminum
+alloy half-moon screwlinks, and screwlock or autolocking Petzl Omni.
+o Stainless screwlinks get stuck and bent easily. Galvanized are cheap. The
+Petzl Omni is expensive and heavy but many people like it. I prefer the
+aluminum alloy screwlinks because they're light and cheap, I don't like
+autolocking things for caving, and a screw-Omni is a little pointless, heavy,
+and expensive. Also, you can also fit the Raumer Handy directly on a half-
+moon screwlink without modification.
+The D-link should be oriented such that it closes to the left from the wearer's
+perspective. This keeps it from unscrewing while ascending. The Cow's Tails
+belong on the left, the chest ascender to the right, and the descender (and
+braking carabiner) either in the middle or far right depending on what
+devices and carabiners you use.
+Seat Harness
+o Look for a low attachment point, more than 2 gear loops, and PVC wrapped
+loops. Avoid padding, autolocking buckles, and things not made in Europe.
+Try several and pick one that works with your body.
+o Good options include the Petzl Superavanti, and MTDE Amazonia. OK options
+include Gonzo Guano Gear harnesses and the MTDE Club. Bad options
+include most other things. Sorry. I prefer the Amazonia. It's worth the cost

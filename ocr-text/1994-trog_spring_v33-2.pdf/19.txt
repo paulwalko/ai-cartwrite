@@ -1,0 +1,44 @@
+--
+sent to you when you join these lists, but to give you an idea of what's available,
+here's a partial list: equipment vendors, prices, and phone numbers; Caving Online,
+an electronic caver's magazine; cave descriptions; grotto addresses; and rescue
+reports.
+What will this cost? You can try it out for free! Application for a PID costs
+nothing, and the Blacksburg Public Library, as part of the Blacksburg Electronic Village
+(BEV) project, has four computers that you can use for free to read and send e-mail.
+If you want to do this at home, the cost depends upon where you are and your
+relationship to VT.
+If you are a student, faculty, or staff on-campus, your connection will usually be
+easy. Most simply need a cable that runs from the computer to the ROLM phone.
+(For faculty and staff there is also a $5 monthly data fee, billable to your phone
+account. Talk to your department's network coordinator.) You access the Internet
+through the same network that processes your phone calls. The bookstore has the
+cable that you'll need. I'm not sure of the price, but it's not much. You do not need a
+modem.
+Some campus offices and East Payne residence hall have Ethernet wiring
+installed. Ethernet is a high speed local network that connects to the campus
+computers. You will need a special card and cable, (see the description for
+apartments with Ethernet below). Students in East Payne will need to get an IP
+address (Internet address) and request activation of the Ethernet port from the
+Telecommunications office in 128 Burruss. Students must have a PID before
+requesting these services. An application for a PID form is reproduced at the end of
+this article. There is no additional fee. Faculty and staff should contact their
+departmental network coordinator.
+If you are off campus you will probably need to access the campus computer
+network over the phone line. To do this, you need a device, a modem, that allows
+your computer to communicate over the phone line. Modems can be either boxes that
+you connect to your computer and phone, or cards that go inside your computer, and
+are connected to the phone. The cost depends upon how fast the modem can
+transmit information, called the baud rate. A reasonably fast modem, 9600 baud, can
+be purchased for $40 to $70 dollars. Slower modems, 2400 baud, do not cost much
+less, but if you are not affiliated with the university, your cost of connection will be
+less. For best results, the BEV recommends spending $125-$200 for a V.32bis
+modem that runs at 14,400 baud. The BeV technical folks strongly recommend
+against purchasing internal modems of any kind, despite the lower cost. They
+encounter many problems getting internal modems to work properly.
+Off campus students, faculty, or staff using a modem can use the Eris software
+to send and receive e-mail and access a limited set of other services without paying a
+network access fee. Those not affiliated with VT will need to subscribe to the
+Blacksburg Electronic Village (details later). Your access fee will be $5 per month for
+a modem at 2400 baud, $8.60 a month for faster modems. Of course you could use
+17

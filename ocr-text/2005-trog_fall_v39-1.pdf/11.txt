@@ -1,0 +1,73 @@
+The Tech Troglodyte
+Page 11
+Calculating the Closure Error of a Closed
+Traverse Cont.
+By Mark Eisenbies
+The level of accuracy should match the of the inclination. Latitudes and departures
+equipment used. In general, the total are calculated in the same manner as the 2-
+traverse error expected for a compass D case. Vertical error is simply the sum of
+and tape survey with azimuths measured the elevation changes. Horizontal error is
+within a degree, and distances within calculated in the same manner as the 2-D
+0.1 ft, should be better than 1/100. example. Total closure error is determined by
+including the square of the elevation change,
+Three-dimensional closure
+Total Error = ((Sum N/S)2 + (Sum E/W)2 +
+In cave surveys the slope distance between
+(Sum of Up/Down))1/2
+stations and inclination are included rather
+than the horizontal distance. As with the In both the 2D and 3D examples,
+2D example, the first step in dealing with the traverse error was within the
+three-dimensional data is to convert data desired 1/100 threshold (Table 3).
+into rectangular coordinates by calculating
+the latitudes, departures, and including Conclusion
+elevation change. The horizontal distance Congratulations, now you should be
+is calculated by multiplying the slope able close your own data. A smart
+distance by the cosine of the inclination monkey might even be able to use this
+(Table 2). Change in elevation is calculated information to improve their score in a
+by multiplying the slope distance by the sine survey contest, but that's another article.
+Coordinates
+Table 1: Two-dimensional survey closure example
+Station Data
+Calculations
+Horizontal Latitude Departure
+Azimuth L sin cos
+Dist
+(N/S). (EM)
+HD*cos(AZ) | HD*sin(AZ)
+N/S
+0
+1
+120.5
+0.8616_ | -0.5075 | 161.4000
+-81.9167
+139.0669
+-81.9167_
+139.0669
+56
+0.8290 | 0.5592_1 121.0000_
+67.6623_
+100.3135
+- 14.2544
+239.3805
+347
+-0.2250 | 0.9744 | 90.1000
+87.7907_
+-20.2681
+73.5364
+219.1124
+283
+| -0.9744
+0.2250
+134.0000 |
+30.1434
+-130.5656_
+103.6798 |
+88.5468
+221
+-0.6561_1 -0.7547_134.8000
+-101.7349
+-88.4368
+1.9450
+1
+0.1101_
+The Tech Troglodyte, Fall ‘05

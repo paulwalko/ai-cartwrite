@@ -1,0 +1,24 @@
+16
+Emitter
+360° Receiver
+Plutonium Burst
+Supply
+Data Storage
+When a radiation burst is released, radioactive particles travel through some materials but reflect off others
+that are too dense. When picked up by the probe, the reflected particles create an image. When North Korea
+set off their nuclear device, the probes placed in South Korea were able to create and show x-ray images of
+the underground pockets and passages of the Korean Peninsula. From this amazing discovery, U.S. caver
+scientists began conducting tests to create a small nuclear emitter and probe to help survey caves and dis-
+cover new passage in existing caves.
+The Gamma Probe works with—and creates—alpha, beta, and gamma particles. The probe first cre-
+ates a small nuclear microburst from a plutonium core. When fired, a filter acts as a “flow straightener,” and
+all the particles are evenly emitted through a palladium nozzle. These emitted particles travel through the air
+medium until they are reflected by a material they cannot pass through. Each set of particles reflects differ-
+ently to each different strata and type of rock the cave is formed in. Alpha particles are used to map a major-
+ity of open passage because they will reflect off all mud and rock. Beta particles easily pass through mud
+and other organic debris but reflect of rock formations. These results would show the length of specific mud
+plugs and determine if they could produce potential digs. Gamma particles were the most interesting parti-
+cles with the experiments performed. They responded most to the density of the rock, and if a rock face was
+porous or thin, reflected results would show a darker area. However, if they reflected entirely, the result
+would show white. These results were best used with finding thin walls to possible undiscovered cave pas-
+sage as well as interesting research in using caves as bunkers in case of a nuclear attack.

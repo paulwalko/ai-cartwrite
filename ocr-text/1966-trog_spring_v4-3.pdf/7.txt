@@ -1,0 +1,51 @@
+HANK'S FOLLY
+..
+.
+After participating in surveying some portions of the extensive
+Greenbrier System, I became aware of the great need for dependable com-
+munications between separated survey groups. At first, the problem of
+designing a device which would allow voice communication over a mile
+underground seemed impractical. The diverse structure of the cave would
+tend to absorb and scatter almost any type of electromagnetic propa-
+gation. Other problems like size, mobility, and ease of operation,
+certainly would not aid in the design of the device.
+A few prominent cavers expressed their interest in a cave walkie-
+talkie to the extent that my enthusiasm got the best of me. I first
+read some short articles on perfected cave radios in the "Baltimore
+Grotto News!. The articles were entirely devoted to hi-intensity D.C.
+field communication that was used for surveying primarily surface to
+sub-surface topography. The equipment seemed heavy and awkward and did
+not allow for voico communication; therefore, the material was not much
+help to me.
+The operating frequency of the walkie-talkie would be the most
+important feature. The success of the transceiver would depend pri-
+marily on the lowest frequency that could be practically used. I chose
+one megacycle which would put the walkie-talkie in the middle of the
+broadcast band. This particular choice has its definite advantages. Al-
+most everyone has a transistor B.C. receiver and could use it when sur-
+veying. Also, the F.C.C. would not frown on radiating in the middle of
+the broadcast band since the law provides for the use of low power
+transmitters in this band.
+0
+After establishing the most economical, practical, cperating
+frequency for the walkie-tall-ic, it was not long before I had a proto-
+żype in operation. It weighed approximately four pounds, measured
+811x51*3", and transmitted with a power input of three watts for one hour
+and received for seventy-two hours continuously. The device could be
+held in one hand, or could be strapped to a person's arm. It was com-
+pletely self-contained, including batteries. The device that was built
+was just right for the lost caver, except for one item; the antenna.
+The shortest antenna for ceasonable efficiency is one-fourth
+the wave length of the operating frequency. At ono megacycle, the an-
+tenna would then have to be about two-hundred and thirty feet long.
+For obvious reasons, no matter how small and mobile the walkie-talkie
+was, it would be vory impractical for caving. I spent some time trying
+various configurations of antennae and the best I could do was a nine-
+foot whip that was conter loaded with a loading coil twice the size and
+weight of the walkie-talkie. My project was therefore abandoned but I
+would like to inform the reader before I close, that the radio did per-
+form very well when tested in.cave conditions with the large antenna.
+Therefore, if some energetic, resourceful individual can come up with a
+short, short radiator for one megacycle, I would be very interested in
+· using it for the cave radio.
+Henry H. Harjes

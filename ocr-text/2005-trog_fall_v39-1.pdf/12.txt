@@ -1,0 +1,116 @@
+The Tech Troglodyte
+Page 12
+Calculating the Closure Error of a Closed
+Traverse Cont.
+By Mark Eisenbies
+Table 2: Three dimensional survey closure example
+Tape | Azimuth |
+cos
+sin
+1
+30.5
+26 | 0.4384 | 0.8988 L 8.5 L 0.1478
+Station
+sin
+Inclination
+cos
+0.9890
+35.
+71
+0.8910
+-0.4540 L
+18.5 10.3173 I
+0.9483
+29.2
+L
+-0.7986
+-0.6018
+-34
+|
+-0.5592
+|
+0.8290
+25.9
+-0.9962
+-0.0872
+-0.7071
+0.7071
+20.5
+313
+-0.7314
+0.6820
+0.9272
+10.3746
+Station
+Calculations
+Horizontal Latitude Departure
+Dist
+(N/S). (E/W)
+Tape
+cos(incl) | HD*cos(AZ) | HD*sin(AZ)
+Elevation
+(U/D
+Tape**
+sin(incl)
+|
+|
+E/W
+U/D
+E/W
+0
+|
+|
+0
+0
+30.1650
+27.11211
+13.2235
+4.5082
+27.1121
+1 3.2235
+14.5082
+33.8552_
+-15.3699_
+30.1652_
+11.3278
+11.7422
+43.3886
+15.8360
+24.2079 | -14.56871-19.33331 -16.3284
+-2.8265
+|
+24.0553
+-0.4925
+18.3141
+| -1.5962_ | -18.24441
+-18.3141
+-4.4227
+|
+5.8110
+-18.8065
+7.6794
+5.2374
+| -5.61641
+19.0073
+L0.8147 10.1946 10.2007_
+Table 3: Closure errors for 2D and 3D examples.
+I 2D Example 3D Example
+N/S Error
+1.9450
+0.8147
+E/W Error
+0.1101
+0.1946
+U/D Error
+0.2007
+Total Error
+1.9481
+0.8613
+Horizontal Error
+0.8376
+Vertical Error
+0.2007
+Traverse Error
+0.0030
+0.0061
+The Tech Troglodyte, Fall ‘05

@@ -1,0 +1,42 @@
+If there is a deficiency of water, the carbide may react
+with the hydroxide present:
+i i . Cacs + Ca(OII) 2 --- 2CaO + C2H2
+: This reaction may be the reason why carbide lights continue
+to produce acetylene long after the water has been turned off..
+: Carbide also reacts with nitrogon to produce cyanamide.
+The only other industrially important reactions of carbide are.
+those in which its reducing properties are utilized.
+- Manufacture. Simple in principle, carbide manufacture has
+changed little since it was first developed in 1892. A mixture of
+lime and carbon is heated in the intense heat of an electric arc
+and the lime is reduced by the carbon according to the equation:
+Ga0 + 3C ---
+CaC2 + 60 - 11 kg.-cal.
+The carbide is formed in a liquid state and contains both excess
+lime and most of the impurities that were present in the raw
+materials. For this reason, the raw materials are purified as
+much as possible before being charged (placed) in the furnace.'
+The carbon monoxide escapes through the furnace charge.
+Impurities in the lime consist of silica, iron and aluminum
+oxides, magnesia, sulfur, and phosphorus; these impurities should
+make up no more than 5% of the lime, the remaining 95% being cao.
+The most commonly used source of carbon for this reaction
+in the United States is coke. The moisture content must be" loss
+than 29 in order to prevent slaking of the lime (and therefore
+formation of dust) when the lime and coke are mixed.
+Most of the impurities merely make the cost of production
+greater, but sulfur and phosphorus enter the acetylene gas gene-
+rated by the carbide in the form of hydrogen sulfide and phos-
+phine, respectively.
+The two main 'types of carbide furnaces, which are not true
+arc furnaces, are: (1) the open furnace, where the carbon monox-
+ide formed in the reaction burns to: carbon dioxide when it comes
+in contact with air on top of the furnace charge and is therfore
+lost up the stack, änd (2) the closed furnace, where as much of
+the carbon monoxide' as possible is provented from burning by
+excluding air from the top of the charge and is.collected, where
+it may be used as a fuel, as a source of CO2 for dry ice, or for
+· chemical synthesis:
+During operations, the furnaces are charged, theoretically,
+with 56 parts of calcium oxide and 36 parts of carbon. The car-
+bide is formed in the reaction zone around its electrodes; the

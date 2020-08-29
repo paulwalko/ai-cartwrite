@@ -1,0 +1,51 @@
+The Tech Troglodyte
+Page 13
+There is Eventually a Joke in This Science Article
+By Zak Sawyer
+Can the club use some of these new geology in some situations, but not greatly useful.
+softwares and various dangling pieces for finding In Journal of Cave and Karst Studies, they used
+good dig sites? There are many very interesting magnetometry studies to greater effect. They
+ways for finding holes in the ground these days, could distinguish between limestone and air.
+and very few ways for determining whether they The effectiveness of magnetometry studies is
+are dig-able or cave-able. The methods dependant on the magnetic-ness of the limestone,
+for finding holes in the ground are: and any interfering currents. Also problematic
+electromagnetic surveys, 2-D velocity- are any conductive soil-bed, metals and
+based tomography, 3-D seismic super- especially wires buried in the area. The cost and
+tomography, thermal tomography, micro- time required to make a magnetometry study are
+gravity, and geology. But whether any of very similar to a resistivity study, but the general
+them are feasible and useful is doubtful. feeling of most authors is that they are less
+reliable.So, for someone who is interested in geo-
+Journal of Cave and Karst Studies, vol. 66 physical surveying this might be a good secondary.
+#2, 04' had an article about resistivity and
+magnetrometry surveys. The whole study took 2-D velocity-based seismic tomography is
+only 20 minutes and some moderately high-tech a fairly cheap method, but time consuming
+equipment. The resistivity study used two source and ridiculously finicky. It is possible to rent
+electrodes, two wireless electrodes for measuring the software for something like $20 a day
+a RES2DINV program, (which is free at http: with a $50 pre-charge from places like
+//www.geoelectrical.com/) and a resistivity expins.com. The wave-generating equipment
+device. A cheap resistivity device, the MiniRes, is can be rented from GISCOgeo.com and places
+$17 a day with a $65 pre-charge [Expins.com]. like that, and theoretically there are people at
+So, this is one of the few techniques that most tech who know how to do this sort of thing. The
+people could afford. Theoretically, someone EPA made a public data sheet rating this as a
+so inclined could build a half-decent resitivity very time-consuming method for finding voids
+device. The result of the resistivity study is a with any accuracy.The cheaper, velocity-based
+2-D cross-section of limestone, with resistivity software is inaccurate enough that to get a good
+indicated by color-bands. Hollow caves are reading, you would need to get a lot of cave in-
+easy to tell apart from limestone and sediment- between the seismographs and the generators.
+filled caves on the readings (Gibson 37). There
+are complexities involved in resistivity studies, “Conventional seismic refraction analyses (e.g.
+however. The soil can't be too wet or too dry delay-time or generalized reciprocal method)
+because of the surface conductivity, and this generally perform poorly for imaging many
+might be a problem with some water-retaining Karst-related features because first-arriving
+clay soils. Interfering currents are also a problem. seismic waves can generally circumvent the low-
+The study would be easy and fast compared to velocity target of interest without a major impact
+digging, so the only issue is learning how to do on travel time, particularly where the target
+the study, and the information is not hard to find. is three-dimensional” (EPA III-12]. And most
+In the Karst article, the magnetometer study, caves are three-dimensional. So, there is the
+using a proton procession magnetometer possibility that you could completely miss a good
+($20 a day, $100 surcharge at exspins.com), sinkhole using this technology. The more accurate
+they could determine whether an area was seisclass mapping programs and tomography are
+sediment filled, but couldn't distinguish between so new that finding the equipment is hard and
+limestone and air, as neither of them are renting or buying it would very expensive.
+magnetic in Ireland [36]. This could be useful
+The Tech Troglodyte, Spring ‘06

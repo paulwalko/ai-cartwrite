@@ -1,0 +1,43 @@
+Lost Promise is no longer LOST!
+By Sandy Knapp & Philip Balister
+Or rather, we now know ABOUT where it is on the surface. The Lost Promise passage, so aptly
+named with its roots and moss and surface air smell just begging for an exit, has been the bane of
+cavers for many years. After several grueling hours of crawling, a crack team of cavers, Matt Burnett,
+Kathy Despains, Kara Smith, and Kevin Rock ended up in the back of Starnes Cave. Philip Balister,
+Craig Ferguson, and Steve Wells were the surface group. Together, they determined that Lost Promise
+is directly under a ravine filled with old barn roofing, about 50 ft. from the surface. How do they
+know this?
+Radio Location, location, location. Don't they say it's all about location? The equipment we used was
+designed by Brian Pease, specifically for performing radio location of points in caves. An antenna and
+transmitter are used to radiate a signal below ground, which is then monitored at the surface with an
+antenna/receiver combination above ground. It sounds simple, but it takes a trained ear to 'hear'
+where the underground signal is coming from and accurately locate the point on the surface directly
+above the transmitter. This is known as ground zero. The receiver uses several design techniques so
+that careful signal strength measurements can be made. From these signal strength measurements, the
+distance between the in cave transmitter and the surface receiver can be calculated to give an accurate
+depth.
+The first problem we run into is that most waves; sound, light, radio etc., don't penetrate the ground
+very far. Of course if this were really true, I wouldn't be writing this article. An electromagnetic wave
+will penetrate into the ground for a distance called the skin depth. The depth is based on frequency (a
+parameter). As the frequency is lowered, the skin depth increases. Using a frequency of 3.5 Khz and
+good conditions, radio location has been able to accurately determine a cave depth of 565 ft. This was
+at Jewel Cave in S. Dakota by Brian Pease.
+Initial testing was at Pighole in Giles County, Va. With a vertical entrance of about 120 ft. we made
+our first attempt at depth determination. Eileen O'Malley and Sandy Knapp positioned the 2’x 2
+antenna at various places inside the cave. At each location, we would turn the transmitter on for a
+predetermined time; long enough for Philip to zero in on the signal above ground by moving his
+antenna so as to 'null’ the signal at ground zero. We know we are at ground zero when the surface
+antenna is vertical and regardless the angle of rotation, the signal is minimized, or nulled as shown in
+Figure 1. Unless you have very good information regarding the location on the surface where you
+expect to find ground zero, hunting for ground zero can be quite challenging. You easily find one line
+of position (LOP) at a point, however deciding which direction to travel in order to find ground zero
+can be difficult. This decision is based on the angle the field leaves the ground and by finding a couple
+of LOP's and deciding in which direction they converge. In his notes on his website, Brian Pease also
+suggests starting uphill from the expected ground zero location.
+The problem with the first trip was that there was no information we could use to compare to the
+depth found by signal strength measurements. We needed more data to confirm the equipment was
+operating properly and that we could interpret the readings correctly. On the next trip to Pighole, we
+wanted some way to confirm our depth measurements. The way we overcame that was by doing both
+a surface and in cave survey to connect the in cave radio location points with the corresponding
+ground zero points on the surface. The underground crew of Eileen O'Malley, Kevin Rock, Mike
+The Tech Troglodyte, Spring 2003

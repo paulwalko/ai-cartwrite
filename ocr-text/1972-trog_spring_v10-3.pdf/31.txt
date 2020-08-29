@@ -1,0 +1,51 @@
+SPRING
+THE TECH TROGLODYTE
+1972
+29
+and the setting was maintained by the small stamped detents on
+the lamp top. With the old lever, determination of the setting
+by touch was easier than with the new ambiguous stem. The
+rounded-hexagon stem knob is also relatively slippery, even
+when dry. Furthermore, if the stem is loose, it can easily lose
+it's setting when bumped.
+FIX A: Cut or file a large notch on one side of the stem
+knob and several grooves on the other points. (See Figure 1)
+These will provide improved friction, and the notch aids setting
+by touch. If the stem turns too easily, chew the threads a bit
+with pliers.
+ITEM B; The water fill plug, although easier to grip
+than the stem, is easily lost. The old water door was secured
+from loss and was simpler to open. It also captured and returned
+most water expelled from the water tank. The new plug tends to
+spill water which collect's in it's open-topped recess. Note
+that in many new lamps, the plug must be screwed in fully to
+allow necessary ventilation through the two small holes in the
+plug sides. Otherwise, the lamp may chug, die or overpressur-
+ize (BANGI)
+FIX B: Punch a hole in the top edge of the plug, and
+tie it to the stem, with a short string, to prevent loss.
+Punch two small holes in the bottom surface of the plug to insure
+ventilation.
+ITEM C; The new neoprene O-ring gasket is an improve-
+ment over the old flat gasket, The O-ring should provide a more
+resilient seal, unless the sealing surfaces are badly mangled.
+Although this O-ring does not fit the old brass lamp, a smaller
+one should be a desirable modification,
+ITEM D: The new structural design of the filter and
+the gas path through the front brass bushing appears inherently
+inferior to the brass lamp design. The old design maintained
+continual protection of the gas path behind the tip by the felt
+filter, which removed particles and droplets from the acetylene,
+The gas tube was also water-cooled, and any condensation in the
+tube normally descended into the felt, minimising buildup which
+could block the tip hole and kill the flame. The new design
+has a simple horizontal gas path and a nonabsorbent plastic
+"filter" which has an overly large cellular structure. These
+factors permit contamination of the gas path, and subsequent tip
+blockage, by both particles and condensed fluids. To compound
+this problem, the path is exposed, accumalating more material,
+each time the top is removed for carbide reloading. As another
+significant hazard, the combination of faulty plug ventilation and
+frequent tip blockage can lead to excessive pressures within the
+lamp, as the carbide will continue to produce acetylene with any
+water remaining in the bottom. This may explain several reports

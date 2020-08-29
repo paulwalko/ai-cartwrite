@@ -1,0 +1,15 @@
+TжЙ Tйэж ТроглодутЙ
+Profile Map
+L-330 .8
+NEW
+SECTION
+Plon Map
+North
+Starnes Caverns
+339
+Date: 12--02-01
+Scale' 330.00 F/In
+Rotation Angle: 0.0
+SMAPS 4.2
+Фалл
+"91

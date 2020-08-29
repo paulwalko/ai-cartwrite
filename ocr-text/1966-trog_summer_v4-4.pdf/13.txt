@@ -1,0 +1,31 @@
+106
+704
+Peak stress
+(PS1x10-3).
+50 1.
+Amount of confinement (in.) -
+Fracture of the rock can occur through failure as a result of in-
+ternal tension, compression, or shear stresses. Failure can occur most
+readily by tension or shear. Consider the following example: two
+equal charges are placed as shown on opposite sides of a Slab or rock
+and detonated simultaneously.
+- esplosive charge
+AVIKVZKAZN
+77
+† † it wi
+ll
+VILLA
+rock slab
+-- explosive charge
+Most of the resulting explosive forces contribute to internal com-
+pressive stresses. A large amount of the explosive energy is used to
+develop these stresses and is thus wasted. Failure may still occur as
+a result; however, the following method is much more efficient.
+V
+rock slab
+Foran explosive charge
+In this method failure occurs more as a result of the shear and
+tensive stresses than by compression and usually a greater amount of
+fracturing will result. Delay firing of multiple charges can be used
+to minimize the loss of efficiency through compression but this topic
+is beyond the scope of this article. (See: Blaster's Handbook)

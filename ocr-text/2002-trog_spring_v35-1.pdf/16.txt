@@ -1,0 +1,83 @@
+The "UAYCEF" Knot System: The "Knotted Frog"
+.. by Penelope Pooler
+One of the primary advantages of this knot
+system is that it can be constructed from one
+long segment of cord. You can make it out of
+two shorter segments for convenience, but the
+advantage of using one long piece is that the
+same cord can also serve as a handline or belay
+line in the cave.
+To start constructing your knot system, use a
+Double Figure Eight or a Bowline on a Bight to
+create double foot loops large enough to fit
+muddy cave boots (see Figure 1). You do not
+need to make the loops large enough to bind
+the foot as in a traditional knot system. Even if
+you prefer to use one large foot loop when
+climbing with a mechanical frog system, two
+foot loops are preferable for this system.
+Based upon an article of the same title written
+by Chris Nicola and edited by Bob Zimmerman
+(Nylon Highway, 1999).
+INTRODUCTION
+As part of my VPI Cave Club membership
+requirements, I had to demonstrate that I could
+ascend rope using knots. With permission from
+Kevin Rock, the former Vice President, I used
+the knot system that I am accustomed to and
+was signed off by Kirk Digby, who then asked
+me to write an article for the Trog about it. This
+article assumes that you know how to tie a
+Helical knot, as well as some others mentioned,
+and understand the basics of the frog ascending
+system. A basic knowledge of how to ascend
+rope with knots is also assumed.
+When I first became interested in learning more
+than basic vertical technique a few years ago, I
+was surfing the web and stumbled upon a
+reference to an article in the Nylon Highway
+(Nicola and Zimmerman, 1999) about a
+knotted frog system also dubbed the
+“UAYCEF” knot system (see endnote for name
+explanation). I basically learned how to climb
+with knots from reading this article and
+practicing at informal vertical sessions at
+various cliffs and friends' backyards in
+northern West Virginia. The system
+construction described below is similar to that
+described in the original article. In my
+subsequent comments, I suggest some
+alternatives that you may want to adopt.
+SYSTEM CONSTRUCTION
+To construct this knot system, you'll need 30
+feet of the knot cord of your choice. Chris
+Nicola's article specifies 6 mm accessory cord,
+which is ideal if you want to build a very
+lightweight system. After experimenting with
+various cord diameters and materials, I've
+found that I prefer 8 mm Mammut for
+climbing on 11 mm rope. It grips the mainline
+really well and you can break the knot fairly
+easily when sliding it up. It's a little more
+expensive than most other cord choices, but is
+very abrasion resistant.
+FOOT Loops /
+W
+o
+OK CAVING
+BOOTS
+Figure 1 - Create the Foot Loops
+While standing in the foot loops adjacent to the
+mainline, pull the cord taut from your foot
+loops and tie a Helical with a Bowline and
+Yosemite tie-off at a height on the mainline
+roughly level with the top of your thigh (see
+Figure 2). It's important to use a Yosemite tie-
+off for the Bowline knot of this lower helical.
+As you'll see in the next step, the tail of this
+bowline is then connected to your harness. A
+Yosemite tie-off is much more likely to prevent
+the bowline from capsizing or coming undone
+in the unlikely event that this bowline's tail line
+to your harness is weighted. This reasoning is
+The Tech Troglodyte, Spring '02

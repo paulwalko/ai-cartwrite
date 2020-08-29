@@ -1,0 +1,16 @@
+These experiments point to the following conclusions but it is unknown if they
+apply generally to all out-of-cal DistoXs or just to one that has drifted out in this
+particular way on this particular survey course. Please see if you can replicate
+these results with your own DistoX!
+Conclusions
+A DistoX is not an electronic Suunto and does not behave like one!
+Averaging Backsights with Foresights will cancel out the effect of calibration
+drift but only if YOU SHOOT BOTH SHOTS IN THE SAME
+ORIENTATION!
+Backsights will improve the closure of your loops over that obtained with
+double foresights if your DistoX is out of calibration.
+If your Foresights and Backsights do not agree, DON'T PANIC. It will still be
+okay if you shoot Backsights in the same orientation. Do not cherry-pick
+orientations in the cave to get better agreement; this will make you feel
+better but will make the closure worse!
+69

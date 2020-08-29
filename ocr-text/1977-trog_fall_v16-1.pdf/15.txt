@@ -1,0 +1,95 @@
+PROGRAM 1 USERS GUIDE
+(For use with either Azimuth or wearins)
+Registers
+Horizontal Distance
+R4
+Bearing (az imuth)
+North coordinata
+East coordinate
+Declination correction
+Distance conversion
+Total surveyed distance
+Elevation
+R7
+STEP
+INSTRUCTIONS
+INPUT
+KEYS
+OUTPUT
+COMMENTS
+1
+Key in program
+Initialize
+f REG
+f PRGM
+f SRK
+Input declination Decl, STO 5
+corroction
+degrees
+East is positive
+West is negative
+Con
+STO 6
+Input distance
+conversion
+Input Output Conversion
+feet foet 1.00
+foot neters 0.3048
+noters meters 1.00
+noters feet1 / 0.3048
+Input initial
+coordinates
+North
+East
+Elev
+STO 1
+STO 2
+STO 3
+If initial coordinates
+are zero skip step
+Input distance
+Dis
+ENTERT
+For backsight change sign
+Input inchos
+Inch
+ENTERI
+For becksight chango sign
+Input 0.00 for no inches or meters
+8
+Input horizontal
+angle
+Hor, ENTERI
+degroes
+Input vertical
+anglio
+1.00
+Ver,
+dogr.es
+R/s
+10
+Quad
+R/S
+Code
+Input quadrant
+codo
+1
+Quadrant
+NE or Azimuth
+SE
+SW
+2
+R/S
+R/s
+North
+East
+Elov
+11
+Repeat steps 6 - 10
+for successive
+courses
+12
+Totaled surveyed
+distanco
+RCL ?
+Dist

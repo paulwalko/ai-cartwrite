@@ -1,0 +1,48 @@
+"Above the furnace there are several hoppers from which the
+furnace vessel is continuously fed with the pre-mixed raw
+material via pipes. During the operation the carbide melt present
+in the furnace must remain covered with raw material."(Payne, 38).
+During the reaction approximately 400m of gas is formed per
+ton of carbide. To recover this gas the furnace is provided with
+the appropriate equipment:
+1. Open furnace - The gas ascends through the raw material
+and burns off at the surface.
+2. Covered furnace - Up to 80% of gas is retained. Co and
+CO2 are collected separately and purified under a different
+method for each gas;
+a. Dry process - Gas is pulled through ceramic filters.
+b. Wet process – Disintegrators or Venturi Washers are
+used.
+3. closed furnace - All gas is collected and used for
+further chemical processes.
+Step 4: The Carbide Furnace (Operation)
+"Before the furnace is put into operation it is charged with
+part of the coke to be used, the lower ends of the three hollow
+electrode cylinders are welded closed, and the cylinders are
+filled with electrode mass and brought into contact- with the coke
+present in the furnace.
+The furnace is operated initially at a very low voltage and
+low intensity of current and is slowly run up until its nominal
+capacity is reached, which, depending on the nature of the
+materials, will take 4-8 days in the case of a 55MN furnace.
+When the furnace is in operation, the melt contained in the
+vessel has to be constantly covered with raw materials," which
+have been dried, broken, and screened, "and the electrodes dip
+about 50-150cm into this material."(Payne, 39). As the electrode
+ends burn away they are constantly (periodically) reset into the
+mass. The mass must be constantly covered to conserve reaction
+mass and continue the process. The rate of calcium carbide
+production is proportional to the area of contact between quick
+lime and coke." (Tedeschi,6).
+The voltage applied to the electrodes is in the range of
+100-300V while the current has an intensity of up to 150,000A.
+The electric arc creates an energy that initiates the reaction
+process around 1500-2000°C. (Tedeschi,6). This point also
+represents "the melting point of the eutectic between calcium
+oxide and calcium carbide and takes place between the molten
+material and the suspended solid particles of carbon.
+When the reaction has progressed to the point that calcium
+carbide forms over 70% of the total fused material the melting
+point rises towards that of pure calcium carbide; 2300°c.
+(See Diagram CAR-3). However, as the melting point rises towards
+26

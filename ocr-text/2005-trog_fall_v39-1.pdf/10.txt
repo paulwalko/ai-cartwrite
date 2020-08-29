@@ -1,0 +1,46 @@
+The Tech Troglodyte
+Page 10
+Calculating the Closure Error of a Closed Traverse
+By Mark Eisenbies
+For many cavers, finding new caves and Ideally, field notes should be checked
+surveying them is the ultimate part of the before leaving the survey location so that
+sport. Like many other caving activities, we discrepancies can be corrected immediately
+have found a way of making a game of it in upon discovery. The most common way to
+the form of survey contests. The objective catch errors is simply by taking backsights
+of these contests is to produce instrument (reverse sights and comparing them to
+readings that minimize closure error in a foresights for both horizontal and vertical
+closed loop or traverse. When you use angle measurements. Most cavers try to get
+instruments, there is a certain amount of foresights and backsights to agree within one
+error inherent in your readings such that degree. However, I will sometimes weight
+even though you take a reading on your a foresight or backsight based on the ease
+starting point when you finish the loop, if you of the shot because I am more confident
+were to project an imaginary beam following in readings I make when I'm not contorted
+your exact measurements they would not end
+at the precise location of your starting point. Two-dimensional closure
+Put simply, closure error is simply the linear Horizontal angular error in closed traverses
+distance between your starting point and can be checked by calculating interior or
+the point that your measurements lead to in deflection angles. The sum of interior angles
+2D or 3D space. In reality, the errors that in a closed traverse is (n-2)*180, where n
+separate the top finishers in a survey contest is the number of sides. Another method is
+are as much due to chance as skill. However, to calculate the algebraic sum of deflection
+blunders (reading the wrong scale, or angles is 360 degrees, where angles turned
+replacing a backsight for a foresight) can make to the right have an opposite sign of angles
+the difference between being in the running, turned to the left. In general an acceptable
+and being embarrassed by spot using a paper level of error for a closed survey would
+plate with some lines drawn on it and a plumb be n1/2 of the smallest unit of angle read.
+bob, or a hand saw and a bottle opener.
+Calculating closure error on a horizontal
+In all surveys, closed traverses are preferred traverse is accomplished by calculating the
+because they allow closure to be calculated, latitudes and departures for each of the shots.
+and corrections made by distributing the In a closed traverse the sum of the latitudes
+error back through the raw data for the (North(+)/South(-) horizontal components
+purpose of final reporting. Unless we have or vectors) should equal zero, as well as
+a cave with two entrances, passages that the sum of the departures (East(-)/West(+)
+reconnect, or we use cave location radios, we horizontal components or vectors). Latitudes
+are usually unable to close many traverses and departures are calculated using the
+with precision. The purpose of this article sine and cosine by multiplying them by the
+is to provide some quick calculations you horizontal distance between the stations
+can use to check your work so you can avoid (Table 1). The Pythagorean Theorem is then
+blunders and calculate your closure by hand. used to calculate the total horizontal error.
+TotalError=[(SumofN/S)2+(SumofE/W)2)1/2
+The Tech Troglodyte, Fall ‘05

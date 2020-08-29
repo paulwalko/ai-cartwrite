@@ -1,0 +1,32 @@
+Experiments with an out-of-cal DistoX2
+WF Koerschner 3-25-2018
+Four hours into the cave and the foresights are 2 degrees off from the
+backsights. Oh Fudge! What do we do now professor? Scooping is not an
+option.
+In a perfect world your Cams all have factory teeth, your cave suit still has an
+ass to it and your DistoX is in perfect calibration such that it reads the same
+values in any orientation. But, COME ON, Folks we are dealing with cavers
+here. "I should really go home and re-calibrate the Disto before tomorrow's
+trip but okay, maybe just one more beer". Thus one can assume that nearly
+every DistoX is in some state of less than perfect calibration. The question is
+how do you get the best survey accuracy in an imperfect world?
+In the years since I purchased my DistoX2 I have heard a lot of advice about
+how to survey with one: You should shoot foresights and backsights!
+Backsights are a waste of time – just shoot double foresights! Well, in Europe,
+we always shoot all 4 orientations and average them. Well, back in my day,
+real men surveyed with Bruntons! (Wait! That was me!) Tired of the BLA BLA
+BLA; I decided to do some experiments to prove it for myself.
+First I needed an out-of-calibration DistoX. Well, what do you know, I just
+happened to have one! You see, on the most recent survey trip to Lowmoor
+Cave we discovered that the backsights were 2 degrees off from the foresights
+and proceeded to survey anyway. Who cares - not my project (Sorry, Dave
+Socky. Will reshoot if you like).
+Method: I laid out a 9 shot survey course in the woods; 446 ft long,
+horizontal extent of 425 ft, vertical extent of 20 ft. First I very carefully
+surveyed the course with Suunto & tape shooting both foresights and
+backsights; this "Analog" loop closes with a horizontal error of 0.2 ft and a
+vertical error of 0.7 ft. The East, North, Up (ENU) of this loop is 0.2, 0.1, 0.7.
+Next I surveyed the course with my out-of-calibration DistoX2 shooting
+foresights and backsights in all 4 orientations (Display Up, Display Down,
+Display Right, Display Left).
+65

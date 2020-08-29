@@ -1,0 +1,38 @@
+107.
+You may notice a slight difference between this issue and the last three,
+other tham its obvious brevity. We are now using smaller type. This reduces
+our costs and gives our subscribers more for their money. Speaking of sub-
+'scriptionis, our rates are still. T¢ per page, Send $3 or $5 to the VPI Cave
+CIub (make checks payable to the VPI Cave Club, not Gary or I) at box Bass
+(see cover) and you will receive your own personal copy of the Tech Troglodyte
+Pour times yearly (more or less).
+Before I close, Iet me remind you, dear reader, that all articles contained
+Hereim are signed by the author, and are his opinions alonre. They do not
+necessarily reflect the opinions of the Grotto, its members, officers, or the
+Troglodyte staff. If you are in disagreement with any of them, pIease direct
+your aritti cism to the person whose name appears at the end of the article.
+Letters concerning anything herein are welcome. Our address is printed on the
+cover, So much for that,
+Hope to see you all at the Ole Timers! Reunion, Labor Day weekend, in
+Franklin, West Virginia,
+Managing Editor
+(R. E. Whittemore)
+submitted for publication: July 14, 1965
+THE TYROLEAN TRAVERSE
+I. Calculation of Ioads:
+The maximum safe Toad that can be applied to a tightly-stretched Tyrolean
+traverse will be computed.
+The Tworst caselt is a horizontal span with the Ioad applied at the midpoint.
+Therefore, this case will be the only one considered.
+Lo
+ТА
+Tsin A
+Tsin A
+.
+P =
+y
+2Tsin
+A
+A is the angle which the rope makes with a straight line between the
+supports. The rope will, of course, stretch under tension. 21. is the inital
+Tength; 2L is the length of the rope under Ioad (I. and I are for the span).

@@ -1,0 +1,35 @@
+The primary disadvantage of the texas system is that it can be less efficient than the frog
+system because you have to slide your bottom ascender after loading your top knot. Ideally, in
+the frog system, your chest ascender moves up with you as you stand. However, sometimes it
+doesn't due to lack of rope weight or because you are doing a more difficult maneuver like going
+over a lip. In any case, you can not mirror a frog system using knots so this disadvantage does
+not apply when you are only comparing knot ascension systems.
+However, there are a few disadvantages to the texas kick knot system described by Cornell
+Tree Climbing:
+• The use of the prusik requires loosening the bridge of the loaded knot before you can slide
+it again. In the video, he prefered to do a "hand over hand” motion to advance the knot,
+which is inefficient and shouldn't be necessary. Ideally, you should be able to simply slide
+the knot from below without grabbing the rope above the knot, which could cause you to
+accidentally apply downward pressure on the loaded knot and capsizing it.
+• Their use of the prusik used carabiners to clip onto the harness, which I've found often
+require careful attention to avoid cross loading them while ascending since they are being
+repeatedly loaded and unloaded. However, this disadvantage can be mitigated by simply
+tying a figure eight on a (large) bight on the end of the cord and using the loop to create the
+prusik and the other end of the cord to tie in with a figure eight follow through. Alternatively,
+using a clove hitch to attach the carabiners may also prevent cross loading, though I have
+not tested this idea.
+• Since the prusik is tied on a loop rather than the end of the rope, you need to untie or
+unclip your harness attachment point to undo the hitch to do a changeover.
+So I wanted to modify this system to use helicals and tie in knots rather than carabiners.
+Doing this with the top knot cord was simple because you can tie the helical with one end and
+tie in with the other, just as you would in the three knot system. However, doing this with the
+lower knot cord is not as simple. Since the prusik (and any of the other aforementioned friction
+hitches except the helical) is tied with a bight of rope rather than a single line, you can have two
+lines coming out, one attaching to your harness as a backup and the other
+extending to your foot, as shown in the video. However, this is not possible with the helical since
+it is tied with a single line at the end of the rope. Thus, I had to tie an alpine butterfly loop that
+extended down to my foot just below the helical. I could then use the other end of the cord to tie
+in. If you want a foot loop for each foot, you can tie a bowline on a bight on the alpine butterfly
+loop. Alternatively, you could tie a purcell prusik, which would allow you to adjust the length of
+your foot loops. See the next figure.
+40

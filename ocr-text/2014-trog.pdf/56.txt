@@ -1,0 +1,79 @@
+56
+Cave Documentation
+By Nick Socky
+In order to get your membership with the VPI Cave Club, one of the requirements is to remain a prospective member
+for at least 10 weeks during which time/he/she/it must spend at least 40 hours underground on at least 6 club trips. It seems
+that most of the prospective members seeking membership (even me when I was!) do a poor job of initial documentation of
+which caves they went to, with who, and for how long. I recall right before I was voted in, I spent several hours going through
+all the sign out sheets at sign out to see which trips I had been on, who was the leader/member on the trip, and how long I was
+caving for, and then running around all of Blacksburg trying to get the signatures for those trips! The simplest way to prevent
+this from happening is to just carry the cave trip sign off sheet with you to every cave you go to, and have a member sign you
+off on the trip once you get out of the cave. But some people may want to document further, and continue documenting as well!
+So below I have created a tutorial, with included examples of how to make a Cave Trip Data Base in Microsoft Excel, just like
+mine!
+An image of the basic template is included below. This is the sheet 1 excel sheet. It includes the date you went caving,
+which cave you went to, who was on the trip, how long the trip was, which state and county the cave is in, number of bats you
+saw in the cave, and then lastly the trip quote and additional notes you wish to add about the cave. The only excel math needed
+here is simple. For the total hours, click cell D14, then up on the fx bar type in =SUM (D8:D13). This will calculate all the
+hours you have been underground. Then to set the same total in cell C4, click cell C4 and in the fx bar and enter =D14. This
+will link these two cells together to be equal. Now you can do the same exact process for the Bat Count: Click cell G14, and
+then type in the fx, =SUM (G8:G13), and then click C5 and enter into the fx, =G14. If you want to add a cave to the list and
+keep math, simply right click on row 14 and then click on insert. It should move all the totals down one row and allow you en-
+tire all the new data, keeping the math and adding to the summation. Lastly, you need to add the total trips. To do this, click on
+cell C4 and enter into the fx, =Sheet2! D28. This will call cell D28 from the second sheet. Next, I will show you how to do some
+more details cave documentation! To make it match up with cell C4 you need to follow exactly the same template below!
+C5
+=G14
+А
+c
+D
+E
+F
+G
+H
+I
+33.5
+Cave Trip Data Base
+Total Hours:
+Total Trips:
+Total Bats:
+6.
+5
+18]
+Date Cave
+Trip Participants Hours State
+8 1/4/2014 Tawneys
+4 VA
+9 1/18/2014 Clover Hollow
+10 VA
+10 1/19/2014 James
+2.5 VA
+11 2/8/2014 Culverson Creek
+8 WVA
+12 2/22/2014 Tawneys
+2.5 VA
+13 4/26/2014 Newberry/Banes
+6.5 VA
+14
+Total Hours
+15
+16
+17
+18
+County Bat Count Trip Quote/Notes
+Giles
+4 Fun Trainee Trip to Tawneys! Went to the Sink
+Giles
+3 First verticle Trip of the year! It was a really lon
+Pulaski
+2 Decided I wanted to cave both days this weeke
+Greenbriar
+4 Went on my First west Virginai Trip! It was supe
+Giles
+3 Decided to go on a fun sport trip to tawneys for
+Bland
+2 Took my first Newberry/Banes Cross over trip!
+Total Bats
+33.5
+1
+19

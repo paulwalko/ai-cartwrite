@@ -1,0 +1,41 @@
+CONTENTS
+F
+wn
+1. Introductuon
+2. Origin and purpose of the project
+Project planning and reconnaissance
+Skydusky hollow photo control project
+Introduction
+Control specifications
+Establishment of control
+Compiling the map
+Introduction
+The Stereoplotter
+Orienting the stereoplotter
+Interfacing the digitizer
+Compiling the map
+6. Locating the cave entrances
+5.
+:
+INTRODUCTION
+This quasi-technical article was written to give the
+average caver an idea of what was involved in making the
+topographic map of the Skydusky Hollow area in Bland County,
+Virginia. Being hard-pressed to define the "average caver"
+I aimed at some one with little or no knowledge of surveying
+above ground or photogrammetry, but included just enough
+technical information to make it interesting and fulfill by
+degree requirements. I hope you enjoy reading it as much
+as I've enjoyed working on it; it is, after all, my ticket
+out of here.
+ORIGIN AND PURPOSE OF THE PROJECT
+Every project needs a reason to make it all worthwhile;
+this one had several.
+Skydusky Hollow contains the largest known cave system
+in Virginia and is perhaps the most popular caving area for
+the VPI Grotto of the National Speleological Society (NSS).
+The system is comprised of eight caves: Spring Hollow,
+Banes Spring, Bane's, Newberry's, Buddy Penley's, Paul
+Penley's, Harman's Avalanche Pit and Coon. For the past
+20 years, grotto members have been surveying, dye-tracing,
+and studying the geology and biology of the caves.

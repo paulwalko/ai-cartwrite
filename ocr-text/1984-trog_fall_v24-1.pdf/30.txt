@@ -1,0 +1,36 @@
+z direction, provided by the plotter footwheel, Elevation
+is measured when the dot is exactly on the ground by means
+to be discussed later. The accuracy of the measured elev&-
+tion depends on the precision with which the plotter
+operator can put the dot on the ground; an error greater
+than a few tenths of a foot is unacceptable. This is a
+genuine art which most find difficult and some impossible
+to master,
+ir
+to!
+FIGURE 12-22. Latest Model C8 Stereoplanigraph w/Ecomat electromagnetic recording unit.
+Orienting the Stereoplotter
+Before the C-8 may be used, the diapositives, plotter and
+plotter table must be interfaced. This is accomplished
+through a two phase process called orientation. Interior
+orientation is done first to recreate the bundle of light
+rays in each projector exactly as they were recorded by the
+camera. This involves centering the diapositives in the
+stages and positioning them so that they are the same dis-
+tance from the projector lenses as the film was from the
+camera lens during exposure. Once the interior orientation
+is complete, exterior orientation may begin.
+Exterior orientation is a more involved process broken.
+down into relative and absolute orientation. Relative
+orientation recreates the relative angular relationship
+between the projectors so that conjugate image rays intersect
+to form a stereomodel at the desired scale. In this time
+consuming iterative process, each stage is rotated about its
+X, Y, & Z axis until a clear stereoimage is formed. The
+model scale was set at 1"=600!; a l'=300" map scale was
+obtained using a 2:1 plotter-to-table gear ratio.
+In the absolute part of the exterior orientation the
+model is scaled and leveled with respect to the ground.
+Scaling is done by computing the spatial (3-D) distances
+between photo control points in the model and on the ground
+and adjusting the plotter until these vary according to the

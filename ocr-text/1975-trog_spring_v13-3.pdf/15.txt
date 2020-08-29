@@ -1,0 +1,55 @@
+SPRING
+THE TECH TROGLO
+1975
+1
+Hauling
+PART 1
+Simple pulley systems of great mechanical advantage can easily be constructed
+using the concept of the 2 to 1 pulley system, the most basic pulley configuration.
+Pulley systems thus constructed have less energy loss through friction than any
+other pulley arrangements of the same ideal mechanical advantare (because there
+are fewer pulleys); therefore with these piggy back sys tems the actual mechanical
+advantage is the maximum obtainable, we shall exline the 2 to 1 and develop a
+4 to 1 system requiring the minimum equipment with which it is possible to con
+struct the ideal 4 to 11 one fixed point, one rope, 2 pulleys, and 2 Gibbs AS-
+cenders. An 8 to 1 requiring no additional equipment, save one pulley, is also
+shown and therein the principles for constructing more powerful systems are il-
+lustrated,
+In principle, a 2 to 1 pulley system requires only one pulley, one rope, and
+one fixed point, as is shown in figure 1. AS a result of the physical limitations
+imposed by available rope lengths and a desire for simplicity and safety, pulley
+systems used in actual deep pit hauls are modified to incorporate the purchase
+method. Figure 2 illustrates the configuration of a 2 to 1 pulley system using
+the purchase method, ready for a hauling session to begin, Figure 3, in contrast,
+portrays the same system at the end of a hauling session, iet us follow a complete
+hauling session starting with figure 2. iiere, the main line cam is close to the
+stop cam, which is engaged and holds the load of the main line, AS the hauling
+line is pulled, the stop can releases itself and wing into the line of pull.
+When sufficient recovery has occured, pulley will collapse into the fixed point
+and further progress cannot be gained, as shown in figure 3. is tension in the
+hauling line is gradually released (to minimize shock loading), the stop cam sete
+itself and swings into the line between the fixed uirit and the point at which
+the main line crosses the lip of the drop. The slop cam now bears the main line
+load and the main line cam is slid down near 'the stop cam (as in figure 2) and
+another hauling session may be initiated,
+The cam tie, in figures 2 and 3, serves to hold the stop cam in the most
+dropward position possible. Thus, its use helps to minimize the inevitable shock
+loading which occurs when tension in the hauling line is released i.e. each time
+a hauling session ends or when the entire hauling crew slips!). if an inflexible
+cam tie, such as avalanche cord, etc., is used, c. very sloppy and inefficient sys-
+tem will result, especially if the hauling direction differs considerably from the
+anchoring direction (for, if tight, the cam tie, being unable to stretch, will
+cause a friction producing bend at the stop cam or if tied loosely, hauling must
+be done in one specific direction to both eliminate the bend and maximize the re-
+covery). With a shock cord cam tie, as found on the Davison System Knee assembly,
+the stop cam always rides in the most dropward position possible so that recovery
+is maximized and no bend is produced. The flexibility of the shock cord auto-
+matically compensates for changes in hauling direction. The behavior of the shock
+cord cam tie is illustrated in figures 2 and 3, but is idore drama lically shown in
+figures 10 and 11. The cam tie may be secured to a heavy pack or a rock projec-
+tion. If no cam tie is used at all, an extra caver must stand at the stop cala
+and hold it in position manually. He must minimize :shock loading and assure that
+the stop cam engages and releases at the appropriate times, iote that, in figures
+2 and 3, the stop cam has been anchored to the only fixed point available. ien-
+erally, a second fixed point closer to the drop can be used instead; but we are
+trying to work with minimum requirementsboth equipment-wise and satural!

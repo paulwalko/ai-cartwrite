@@ -1,0 +1,88 @@
+Use of the 2001 Cave Survey Protractor
+by Joe Zokaites
+Before you go underground, cut off the excess
+material around the round part of the
+protractor.
+Set the center of the protractor at the first
+station and rotate it until a line from the center
+to the compass bearing is pointed straight up.
+Note whether the compass bearing is red or
+black. Using the protractor's straight side, draw
+the survey shot in the red or black direction,
+stopping when you reach the tape distance.
+As an example, starting at station 125, the tape
+distance is 17.8 feet, the compass direction is
+298°, and the slope is 2°. Set the protractor
+center at station 125 and rotate it until 298° is
+straight up. I use the colored lines to help
+orient the compass. Starting at station 125,
+draw the shot in the red direction (298° was on
+the red scale) stopping at 17.8 feet. If you have
+a steep shot, you may want to draw the actual
+horizontal length.
+To calculate the horizontal length of the shot,
+find the slope angle in the left side of the cosine
+table and multiply the taped distance by the
+number in the right side of the table. For
+example, with a slope between 18° and 32º, I
+multiply the tape distance by 0.9. An easy way
+to calculate 90% is to subtract 10% of the
+distance. For example, with a 23.4 foot shot, I
+subtract 2.3 feet to get 21.1 feet. To multiply by
+0.8, I use the same trick, but subtract 20%.
+Using the same distance, but a slope of 35º, I
+would subtract 4.6 feet (double the 2.3 feet) to
+get 18.8 feet.
+.
+..
+2
+Seah
+.
+OLAB
+a
+ES
+SMS
+*
+19
+*
+**
+- Teresa
+we
+WWW
+Tv
+v
+:
+.
+GEM Cervi,
+EN
+X
+vệ vang trong
+19.
+.
+........
+www
+:
+webion
+** were
+CAMERA
+w
+..
+xwvi
+...
+...
+A.
+WWW.
+.
+..
+.
+.
+<
+schop
+www
+.
+wa
+were
+MAR
+Cave Survey Protractor Example
+On the actual protractor, the lower degrees (350° to 190°) are in red and the feet to the left of zero are in red.
+The Tech Troglodyte, Fall '02

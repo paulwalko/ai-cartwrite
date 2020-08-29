@@ -1,0 +1,49 @@
+The Tech Troglodyte
+Page 14
+There is Eventually a Joke in This Science Article Cont.
+By Zak Sawyer
+Micro-gravity is a relatively new technique, in indicator is that it is dependant on the weather.
+use since the late seventies. It's somewhat more The greater the difference from the yearly average,
+dependable than resistivity studies, and equally the more well defined the evidence will be. So
+fast, but also 4 times as expensive. In 1986 this might not be a good approach when it's 50
+in Loudon County, some geologists used the degrees outside, but would be excellent when
+microgravity detector to locate caves releasing there's a couple inches of snow on the ground.
+toxic gasses into a suburb. It worked where
+resistivity failed, but the equipment they used Another method is to consult your friendly local
+was of one micro-gal precision. [Gibson 11]. To hydrologist. This is a method that is cheap,
+get good results, White reports that only a one doesn't require a whole lot of talent, and has
+micro-gal detector would be completely reliable. a long history of vague effectiveness. Deighan
+The Lacoste and Rhomberg model G, at 10 micro- was and is looking for a lead in Pighole a couple
+gals of precision can be rented for 70$ a day years ago to explain why the area was missing
+with a $250 pre-charge (expins.com). So, the 1 some water. Though probably a good topic for
+micro-gal detectors are probably really expensive. research, the hydrological method would at best
+give you a good idea where to look for a hole. For
+Thermography is not a new technology, but it now more specific analysis, you could collect data on
+can be used on bigger scale than traditionally individual springs and creeks, but this is under-
+done. You see steam rising from a hole and researched and vagueish science (18 White).
+you are an official NSS-approved thermal
+tomographist. One study of karst used thermal So, the older approach of geology and hydrology
+technology and decent seismic tomography to are probably as good as it gets on a regional
+study the area. The pits were found by strapping scale. On a much smaller scale, electromagnetic
+some sort of thermal thingy to a plane and taking surveys could be useful, though possibly time-
+pictures (Gibson 18]: With luck, thermal maps of consuming on days when most people would
+the area might be obtainable, perhaps through rather be in a cave. However, digging in the
+consulting companies or USGS. One such wrong place would probably be even more time
+company did a thermal map of the silver creek consuming. Also of interest, the Virginia Mining
+system in Idaho: http://savesilvercreek.com/ and Minerals Department sells a speleological
+a erial thermal map system.htm survey map of SW Virginia for four dollars.
+The Phoenix Forest Service uses this sort of
+thing for detecting fires, and they claim that If all else fails, remember blast, destroy, more
+while 3,048 m above ground, they can see a wood!
+15-20 cm hot spot, at 40.5 sq km per minute
+[J1G.3]. Somebody might even have done some Surface Geophysical Methods. Ch
+thermal-maps of the Blacksburg karst-area. 3. EPA. US: EPA, March 1997.
+The only concern here would be false positives,
+like a system of drainage faults, a deep-buried P.J. Gibson, P. Lyle, and D.M. George -
+shaft or a still active cave, and it probably would Application of resistivity and magnetometry
+not work anywhere near a building. Outside of geophysical techniques for near-surface
+thermal-maps, you probably could just stick a investigations in karstic terrains in
+thermometer in the ground in a possible dig, Ireland. Journal of Cave and Karst
+and compare it with the surrounding ground Studies, v. 66, no. 2, p. 35-38. 2004.
+temperature. The downside of temperature cave-
+The Tech Troglodyte, Spring ‘06

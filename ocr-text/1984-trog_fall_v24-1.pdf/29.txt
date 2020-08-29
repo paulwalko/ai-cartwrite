@@ -1,0 +1,51 @@
+27
+with the area, Now I know what a pack mule feels like, .
+except he has four feet,
+After completing their assigned part of the fieldwork,
+the class reduced the data and performed a least squares
+adjustment of it by computer. The network stations and
+corresponding error ellipses were then plotted by a
+Versatec plotter,
+The end result of the project was the precise position
+of each of the points in the photo control network, an
+essential part of my independent study project. The class.
+had met its objective. Now all that remained was for me
+to meet mine.
+COMPILING THE MAP
+Introduction
+The objective of my independant study project was to
+photogrammetrically compile a 10' contour interval map of
+Skydusky Hollow at a scale of l"=300" showing the eight
+cave entrance position, and write a report describing the
+process.
+Much more in involved in compiling a map than the actual
+plotter work itself; before beginning the compilation one
+must some how obtain the imagery and required photo control.
+These steps were described in the preceeding sections of the
+report. The remaining sections are dedicated to explaining
+the stereoplotter and entrance location work.
+The Stereoplotter
+The stereoplotter used to compile the map is a 1950'S
+vintage Zeiss C-8 Stereoplanigraph on indefinite loan from
+the Defense Mapping Agency. A first order instrument, it
+was one of the best of its day and is still one of the most
+accurate plotters in existence. It creates a precise stereo-
+model on which measurements can be made in three-dimensional
+space. This is done optically by shining light through a
+pair of stereophotographs printed on glass plates (Diapositives)
+which are mounted in stages. The right image is transmitted
+to the right eye and the left image is transmitted to the
+left eye, through a complex optical train of distortion
+correcting Mirrors and lenses. This results in the optical
+illusion that the image-to-eye distance and eye separation
+(eye base) are much greater than they actually are. Thus,
+the brain senses the parallactic angle formed between conju-
+gate images on the two photographs, it is tricked into
+artificial depth perception, and creates a stereo (three-
+dimensional) model of the terrain.
+Precise measurements of the stereomodel are made with the
+help of a "floating' mark"; a dot of light which appears to
+float in the field of view. The dot of light appears to lie
+exactly on the surface of the ground when the image is in .
+perfect stereo. It appears to move above or below the ground
+and split apart with positive or negative movement in the

@@ -1,0 +1,61 @@
+SPRING
+THE TECH TRUGLUDYTE
+1925
+A4 to 1 pulley System requires 2 pulleys and is shown in figure (in t'i :-
+ures 4 to 8, the top cam and associated Items
+clarity. The stop can must be used in an actual haul though). A second 2 to i
+is pulling on the hauling line of our original 2 to i. If only one fixod point
+is available, as in figure 5, it is easy to see how the system in figure ? misht
+evolve in some people's minds. This is the configuration which is inuicated in
+the article on "Pit Rescue", page 4 of Nylon Highw 2. But pulley C in figure
+7 is completely unnecessaryi for when haulins, no movement takes place over pulley
+C. It just sits there! (Try the arrangement to satisfy your own mind.) The dashed
+line in figure 5 illustrates how the 4 to 1 could easily be rigsed with one roue,
+The behavior of the 4 to 1 piggy back pulley system must be understood if it
+is to be used efficiently. Initial rigging, immediately prior to a hauling ses-
+sion, is shown in figure 5. The haul is over, figure 6, when pulley B collapses
+into the fixed point. The system must be re-extended for any additional recovery.
+Note that pulley A still remains about ž o.f its ir.itial distance from the fixed
+point, This type of 4 to 1 can therefore only be used with the purchase methou
+(as opposed to the suggestion in the previously citeci article).
+Suppose that the purchase method was not used and the 4 to 1 in figure
+was extended to the very bottom of the pit. The main line would be discarded
+since pulleys A and B would be at the bottom. Uur victim would clin directly into
+pulley A with a carabiner and the haul would begin. The victim would be halfway
+up the drop when pulley B collapsed into the fixed point. There would be no
+further progress. Even if the configuration in figure 7 were used, the victim
+would be halfway up the drop when the system collapsed from a to i to a system
+with a mechanical advantage close to or below 1! The purchase method must be issu
+with all the pulley:'Systems we are discussing except the 2 to 1.
+If each caver would carry 2 small rescue pulleys, he would be capable of
+constructing the ideal 1 to 1 by himself, and absolutely sensational systeins are
+possible with a group of caver's, For example, in the same play back liner
+that the 4 to 1 was ¿enerateri, pulley Systems of 26 thouretical mechanical dviri-
+tage may be constructed; where is the number of pulleys involved. Viln j juli-
+eys, figure 8, an ideal mechanical advantage of 2133 could be obtained, or if it
+pulleys were available, 2+=16, or,..
+in the classic block and tackle configuration, that arransement used sost
+frequently on a world-wide all occassion basis, the ideal efficiency of the pull-
+ey systein is equal to the number of pulleys plus 1 or P+1. Block and tackle
+systems can be developed on one axle or inultiple axles. Higure 9 illustrates
+some block and tackle arrangements.
+The energy lost as friction, G, as a pulley rotates on its axle or a rope
+slides over a carabiner is:
+ü = Uxb'
+where U is the coefficient of friction and L' is the load perpendicular to the
+moving surfaces. The actual mechanical advantage, or actual efficiency, mu, is:
+AE = L/
+(2)
+where L is the load to be raised and is the force necessary to move the load
+continuously (in this discussion, the energy of the rope deformation as it crosses
+the pulley or carabiner is considered to be negligible). In clauic block and
+tackle (B&T) type pulley systems, the load upon each pulley, l', is reduced as
+more pulleys are incorporated to produce systems of creater theoretical or iucal
+efficiency, IE. Thus friction and AE calculations become a bit more involved
+than is generally realized. But we diverge! in the B&T method, each pulley
+in a block is under an equal load and
+Lį = 11/P1
+(3)
+where L, is the load on the 'entire block, bi is this load on each pulley ir block
+1, and Bi is the number of pulleys in the block. similarly,
+Lź = 12/12

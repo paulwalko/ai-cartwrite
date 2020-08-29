@@ -1,0 +1,51 @@
+107
+Military explosives and demolitions such as TNT, composition C-3
+and C-L1 are the ultimate in sophisticated high-velocity explosives.
+Composition C-4 is so effective that it could best be described as
+"instant cavell; however, since these explosives are very difficult to
+obtain they will not be discussed any further. (See: Explosives and
+Demolitions, U.S. Army Field Manual FM5-25).
+"Sifon-Go" is too dangerous to be used in caves so this topic
+will be dismissed also. (See Tech Troglodyte; Vol. 4, No. 2, page 60-1).
+Since a good technical caving article is not complete without a
+few hairy equations, several will be presented here. The mathematics
+are not included to decorate this article or snow the reader. The
+following analysis is useful as a qualitative method for determining
+the approximate amount of explosives required to blast a particular
+rock. But since the conditions are ideal, it should be considered as
+Advanced Theoretical Cave Making.
+The energy or work that a given explosive is capable of producing
+at detonation is usually stated in foot-tons per pound of explosive.
+The characteristics of any detonation are determined by the manner in
+which a given volume of explosives (at relatively low temperature)
+changes to a large volume of gas (at a high temperature). The total
+work, assuming no heat loss, is determined as;
+WORK
+.=
+I v2
+v pdv
+where V=volume, p ressure. However, since the process is not adiabatic
+the following data has been determined on this basis. The preceding re-
+lationship is interesting but an understanding of it is not essential.
+EXPLOSIVE
+ENERGY (foot-tons/pound of explosive), E
+721
+30% Dynamite
+40% Dynamite
+60% Dynamite
+75% Dynamite
+750
+800
+830
+The amount of work necessary to cause fracturing of a rock mass is
+determined by the number of foot-pounds per square foot of fracture
+area required. The fracture area (after detonation) should not be con-
+fused with the surface area (before detonation).
+ROCK
+FRACTURE (foot-pounds/ square foot), I
+Limestone
+Sandstone
+208
+541
+----------
+-

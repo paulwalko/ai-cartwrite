@@ -1,0 +1,36 @@
+14
+DUAL FIXED LOOP KNOTS
+JESSIE SAKACH
+Fixed loop knots are often used when rigging to multiple anchors. This can be important
+if there is no suitable single anchor point available, for optimal rope placement, or as an extra
+safety precaution. A major advantage is that if one anchor fails, and the remaining anchor can
+withstand the force of the load, the system will still work. An example of this is rigging into
+two bolts in a wall, or to two smaller trees near a drop, rather than just one.
+Self-equalizing rig allows the load to be distributed evenly between multiple anchors.
+Dual fixed loop knots like the bowline on a bight or double figure eight are common choices for
+this. A Y-hang is another way of rigging to more than one anchor. It can be helpful if you need
+to position the rope away from a wall or other obstacle. In addition to the bowline on a bight
+and double figure eight, the double alpine butterfly can also be used in a Y-hang. Although the
+first two knots mentioned are admittedly quicker and easier to tie, the double alpine butterfly
+has the advantage of being multi-directional. A specific case where a multi-directional knot is
+beneficial is if you have a cable ladder rigged into a belay line.
+Bowline on a Bight
+Moderate
+Double Figure Eight
+Easy
+Double Alpine Butterfly
+Difficult
+Complexity
+Difficulty to Untie
+(After Load)
+Easy
+Difficult
+Moderate
+Directionality
+Uni-directional*
+Uni-directional*
+Multi-directional
+*The tail ends of the knot must be parallel to prevent the knot from capsizing.
+Each of these knots has its own advantages and disadvantages, some of which were cov-
+ered in the chart. Other factors may include rope strength and personal preference. You should
+pick the knot that best suits your specific needs.

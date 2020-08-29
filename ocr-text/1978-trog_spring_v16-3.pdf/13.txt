@@ -1,0 +1,41 @@
+Up to this point only the effect of friction caused by a normal force over
+the brake bar has been considered. At this time perhaps a word or two on soine
+other frictional types of forces is in order
+If the bans are pushed too lose together, the rope is pinched between the
+bars, causing the rope to bind at those points. With the possible exeption of
+the two top bars, which sometimes have spacers anyhow, I don't believe that this
+type of resistance will be very great. As the bars get closer together, the angle
+of departure from the bar begins to approach a perpendicular andle to the rack
+axis. This means that the force caused by the rope to slide the barg together
+drops lower and lower. At the same time, the force that pushes the bar against
+the rack fraide increases, which in turn increases the friction between the rack
+frame and the bar. The result is to decrease the net force that could force the
+bars into a pinching action.
+Another very important frictional force is caused by the rope's resistance
+to being bent. If the rope is very flexible and has zero resistance to being bent,
+this force would be zero. In rope like new Bluewater II or Ill, which is very
+flexible, I believe the resistance caused by the many bends would still be small,
+To get a rough idea of how large this resistance is, clip a rack onto a piece of
+rope and pull it through, being sure not to apply any tension on the rope feeding
+into the rack. Of course with an old stiff piece of rope, this resistance can be
+very large. I believe this bending resistance would be related to the sharpness
+of bend (not how far it is bent, but what it's radius of curvature is) and number
+of bends it nas to make in a rack, i.e., the sharper the bend and the more bends
+there are, the more resistance would be produced, from this point of view, six
+3/4" bars should Eenerate inore resistance than four 1" bars. But still, as flex-
+ible as some of the braided ropes are, I believe that bending resistance should
+be neglected in determining the capabilities of racks. If a stiff rope is en-
+countered, bass can always be taken out or spaced to accommodate the additional
+resistance.
+It is not the object of this article to conclude which type of rack is best,
+but only to give some basic idea of how they will compare in ability to generate
+friction. But one thing can be easily observed, if five square cut bars with a
+large offset are used to make a rack, this rack should have similar capabilities
+as a standard six 3/4" bar rack. This new five-bar rack miunt possibly be less
+susceptible to rope stiffness which would give smoother control on old rope that
+has sections of variable stiffness.
+Wahor
+GARY
+MOSS
+-
+10

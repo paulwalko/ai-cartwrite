@@ -1,0 +1,77 @@
+TABLE 2: Survey loops in the 4 orientations
+Survey Loop
+East North Up
+Display U Dbl Frst
+2.1 -0.6 0.0
+Display U Dbl Frst / Dbl Bkst -0.1 0.1 0.0
+Display D Dbl Frst
+-4.5 -2.5 -0.3
+Display D Dbl Frst / Dbl Bkst -0.6 -0.3 0.0
+Display R Dbl Frst
+9.0 1.3 0.0
+Display R Dbl Frst / Dbl Bkst | 2.0 0.0 0.0
+Display L Dbl Frst
+-9.2 -3.7 0.0
+Display L Dbl Frst / Dbl Bkst -0.5 -0.1 0.0
+Hz Closure
+2.2
+0.2
+5.1
+| 0.7
+9.1
+2.0
+9.9
+0.5
+TABLE 3: Other Survey loops
+| Survey Loop
+East North Up
+Analog Frst / Bkst
+0.2
+| Average all Frsts
+-0.6
+Average all Frst / all Bkst 0.2
+Display U Frst / Display D Bkst 2.7
+Display R Frst / Display L Bkst 8.6
+Display U Frst / Display R Bkst | -1.4
+Display D Frst / Display R Bkst -4.7
+Display U Frst / Display D Frst -1.2
+Display R Frst / Display L Frst -0.8
+0.1
+-1.3
+-0.1
+0.6
+2.4
+-1.0
+-2.0
+-1.5
+-1.2
+0.7
+-0.1
+0.0
+0.2
+0.0
+| 0.1
+-0.1
+-0.1
+0.0
+Hz
+Closure
+0.2
+1.5
+0.2
+2.8
+9.0
+1.7
+5.1
+1.9
+1.4
+Analysis: So how bad was the cal on this disto? Examination of the
+raw survey data in Table 1 shows deviations from the Suunto bearings
+ranging from 0 to over 4 degrees depending on the instrument orientation
+compass course so I know it is correct and the DistoX gives matching
+readings when it is in calibration. Also, the Analog loop closes nearly dead
+on (0.2 ft) over 425 ft.
+FRST/BKST disagreement in the same orientation ranges from 0.1
+degrees to an atrocious 7.1 degrees with 2 to 3 degrees being the most
+common.
+67

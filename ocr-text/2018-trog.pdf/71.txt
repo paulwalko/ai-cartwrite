@@ -1,0 +1,20 @@
+4 cm
+lla
+Figure 1. A dog-faced fruit bat (Cynopterus brachyotis) in flight. (a) Beginning of downstroke, head forward, tail backward, the whole
+body is stretched and lined up in a straight line. (b) Middle of downstroke, the wing is highly cambered. (c) End of downstroke, the wing is
+still cambered. A large part of the wing is in front of the head. (d) Middle of upstroke, the wing is folded toward the body.
+These types of flow phenomena are important because their strength and position can be related to
+the magnitude and location of aerodynamically generated lift on a wing. The wake vortex found comprised
+of a wing tip vortex as well as a vortex shed from the middle of the wing. These vortices also varied in
+strength as function of time. This meant that the variation of the lift in time could be related to wing shape as
+it changed during forward flight.
+However, in the conclusion of this experiment the researchers admitted that still much work is to be
+done in this area. The kinematics of bat flight still has not been fully described and understood. Further,
+much more work is needed to relate the shape and position of the wing to the aerodynamic forces it
+generates. Thus we can begin to see how complicated the motion of bats flight is and how it can be used as
+inspiration to develop flying vehicles capable of extreme complex aerodynamic maneuvers.
+References
+Tian, X., Iriarte, J., Middleton, K., Galvao, R., Israeli, E., Roemer, A., Sullivan, A., Song,
+A., Swartz, S., and Breuer, K., “Direct Measurements of the Kinematics and Dynamics of Bat
+Flight,” 36th AIAA Fluid Dynamics Conference and Exhibit, May 2006.
+71

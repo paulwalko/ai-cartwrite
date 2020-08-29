@@ -1,0 +1,29 @@
+15
+Technology Advances Cave Survey
+By Nick “Peppy” Socky
+Detailed cave surveying, involved with project caving, has been around for about 40 to 50 years
+now. Typical techniques still include using a measuring tape, compass, and clinometer. When readings are
+taken from each of these tools, the sketcher writes down the data and hand draws a line-plot and a rough
+sketch of cave cross-section at each specific station. Other techniques involve using high-tech sonar devices
+to create 3-D cross-sectional representation of the passage. Using this surveying device is a great improve-
+ment from the simple instruments and sketching, but such systems are also expensive. Most recently, exten-
+sive research and great advances in science have resulted in an even more sophisticated device to help with
+cave surveying and exploration.
+The device, called a Gamma Probe, is the most advanced cave exploration instrument ever created.
+In early 2013, North Korea performed yet another underground nuclear weapons test. Measurements of the
+explosion again registered on local Richter scales on the Korean peninsula. Cave researchers had permission
+from South Korea to place new probe devices to see if radiation from the nuclear explosion could possibly
+plot and find new cave passage underground. The theory is similar to x-ray devices used in hospitals.
+Gamma Probe
+Alpha, Beta, and Gamma
+Reflected incidents
+Radiation Level
+Emitter
+360° Receiver
+OLIESE
+Other Setting
+Knobs
+Oy 10 22
+DOODO
+Computer Data Storage
+Burst Intensity knob

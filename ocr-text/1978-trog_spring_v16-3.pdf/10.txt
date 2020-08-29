@@ -1,0 +1,43 @@
+To determine the angle change over the bars, the celationships in Figure i
+were used, since the T, force of the bottom bar becomes the T force for the next
+to the bottoin bar and so on, the relationship for the system is as follows:
+(top bar)
+To (bottom bar - eau + eazu +.... ganu U
+In other words, add up all the angle changes for all the bars and treat that total
+angle change as if it were around one bar. Figure 2 shows the Ol (angle change
+around a bar) for 3/4" and 1" bars. Figure 3 shows total angle change for racks.
+Contorlino
+of Rope
+Center
+of Bar
+1932
+es
+Offset
+Distance
+Centerline
+of Rack
+BLOW-UP OF FIRST BAR
+Centerline
+of Rope
+SC
+Center
+of Bar
+KB
+Centerling
+of Rack
+Figure |
+= Radius of bar
+Sc = ivinimum clear distance between round bars--measured on axis between
+center points of bars.
+8 = dinimum clear distance between square bars--measured on axis parallel
+to the rack.
+= R + s/2
+B = R + Sc/2
+= R + effective radius of the rope = R + 3/16
+= Arc Sin (offset/b) used for round bars
+= Arc Tan (offset/A) used for square bars
+z = Arc Cos (C/B)
+= @2 - 22
+84 = 90 - 83 answer in degrees
+angle change caused by exterior bar = OL
+Angle change caused by interior bar = 204

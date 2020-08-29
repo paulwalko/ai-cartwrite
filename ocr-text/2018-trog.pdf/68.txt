@@ -1,0 +1,32 @@
+Now let's examine the loop closures shown in Table 2. They range from 2.2 ft for
+Display Up Double Frsts to a miserable 9.9 ft for Display Left Double Frsts. The
+Display up loop would be good enough for most cave surveys – after all it's only
+a cave map! The 9.9 ft would surely cause scowls and perhaps objects to be
+thrown in your direction.
+So, what is the effect of averaging Foresights and Backsights? It drops the
+horizontal closure error from 2.2 to 0.2 ft for Display Up. Now for the unex-
+pected – shooting backsights and averaging the shot for the really bad Display
+Left orientation drops the closure error from 9.9 to 0.5 ft. Holy Frig Batman!
+This closure improvement was seen in all orientations.
+Does this work if you average foresights with backsights shot in different
+orientations (Table 3)? Up Frst with Down Bkst is 2.8 ft off; Down Frst with
+Right Bkst is 5.1 ft off; Right Frst with Left Bkst is 9.1 ft off. The answer is HELL
+NO! Do not ever average a Frst and a Bkst shot in different orientations unless
+your DistoX is in perfect cal (which it is not!) Paradoxically, these mismatched
+orientations can have better Frst/Bkst agreement (see R Frst/L Bkst in Table 1).
+but result in worse closure. Gee Toto I guess we are not in Suunto Land
+anymore! Apparently only Frst/Bkst pairs shot in the same orientation will
+properly cancel out calibration drift. Backsights have an important function in a
+DistoX survey beyond simple blunder detection.
+The last 2 rows in Table 3 show the effect of averaging Frsts shot in flipped
+orientation (eg. Up & Down). This method seems to improve closure over
+regular double Frsts but not as much as averaging a Bkst for most orientations.
+So what about the Euro method? Averaging all the Frst orientations for each
+survey vector yields a loop closure error of 1.5 ft. Combining these with the 4
+Bksts drops the closure error to 0.2 ft. Clearly this method works, but the
+effect of averaging in the Bksts appears to be much greater than the effect of
+averaging Frsts in all orientations. On this course, shooting one Bkst in the Up
+orientation is as good as shooting and averaging 8 orientations (and much
+more efficient). Perhaps a course with more vertical extent would show a
+different result – future experiment.
+68

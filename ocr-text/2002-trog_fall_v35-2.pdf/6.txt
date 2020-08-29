@@ -1,0 +1,84 @@
+The Piddle Factor: a Mathematical Definition
+by Christina K. Lee
+The following is an explanation or equation for
+the time expected to pass between the
+predetermined sign-out and before arriving at
+the cave, where T is the expected time of arrival
+at the cave. The other variables involved are: S,
+Start Time; C, Number of Cavers on trip; F(S),
+Food time as a function of Start Time; and W,
+the number of Wheeled Vehicles to be
+negotiated towards the cave. An example is
+threaded throughout this explanation of T to
+hasten understanding.
+With the intended Start Time, S, and the
+Number of Cavers, C, you can begin setting up
+an equation for time. T. in hours, where is
+multiplied by 8/60 for the average of eight
+minutes each caver will delay the trip either at
+sign-out or getting to sign-out and T is the sum
+of all the factors.
+T= S+C*(8/60)
+If the Start Time, S, was set for 8 A.M. and the
+Number of Cavers, C, was 4, the initial delayed
+Time is:
+T=8+4(8/60) or T=8.5333 A.M.
+Into this equation, one needs to account for
+time of day, in relation to the natural feeding
+times of cavers, F(S). Starting a trip near a peak
+feeding hour will delay a trip up to an hour
+because cavers will not move unless fed. Peak
+feeding hours are usually midnight, 7 A.M.,
+noon, and 7 P.M. (Cavers will eat if given an
+opportunity. Do not let that happen!) F(S) can
+be modeled by a cosine function, where times
+are transformed into radians (the origin is
+valued as 21.00 or 9 P.M. and an hour has the
+value of pi/12). To change the Start Time into
+radians, one must take the find the number of
+hours passed since 9 P.M. and multiply it by pi/
+12.
+F(S)= abs (cos (1.5*S))
+For our example:
+F(abs (21-8)=abs(cos(1.5*2.8798))
+or F(11)= 0.38268
+Introducing F(S) into the equation of T, gives:
+T= S+C*(8/60) +F(S)
+For our example:
+T= 8.533 +0.38268 or T= 8.91568
+Transportation is another huge factor in the
+equation for T. The number of cars carrying
+cavers may either speed or delay the trip, as
+shown with the equation for time, t, with
+respect to the number of wheels, W, where 3 is
+the optimal maximum number of cars and 0.3
+is the amount of time per car in a caravan.
+t= 0.3*(W-3) if W <3, t = 0
+if W = 3, t = 0
+For our example, we will only have two cars in
+the caravan. Thus, t= 0.
+The final complete equation for the time, T,
+spent from sign-out to cave entrance is:
+T= S+C*(8/60) +F(S)+t
+For our example in which there are 4 cavers in
+2 cars, starting out at 8 A.M., the time, T, is:
+T= 8.91568 A.M.
+The total amount of time lost for our example
+is less than one hour (0.91568 hours).
+NOTE
+The above equation is based on what little data
+is known about the ‘average' caver and by no
+means attempts to take into account a caver
+known as Kirk. This caver equation will NOT
+apply to any trips with KIRK and should NOT
+be used as an explanation of tardiness! Also,
+not suitable for underground use or
+consumption.
+-
+-----
+-
+-
+--
+---------
+-
+The Tech Troglodyte, Fall '02

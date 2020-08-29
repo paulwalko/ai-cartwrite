@@ -1,0 +1,60 @@
+108
+c
+.
+dos A = 0
+.
+1 LI
+.
+.
+.
+. . sec A E
+dos A
+·
+Do
+L
+= -1 = rope stretch = sec A -1
+A will be found for stretches of 10%, 15%, and 20%" (for nylon rope);
+also, the stretch will be found for which a 200 Ib: load produces a 530 lb.
+#ensiom im the rope ("' working Ioad" for a winch manila rope).
+NEC A := 1.70 :
+sec. A = 4.15
+EC A = 1.20
+..'.
+A = 220371
+'A = 29°35.51
+A = 33033.51
+sin A = .47655 for 10% stretch
+sin A = .69382 for 15% stretch
+sin A = .55278 for 20% stretch
+2T sin A = P = 0,833T for 10% stretch
+2T sin A = P = 0.988T for 15% stretch
+2T sin A = P = 1.106T for 20% stretch
+i
+T = 1,20P for a 10% stretch
+- T = 160TP for a: 15% stretch
+T = 0.90P for a 20% stretch
+The stretch of a nylon rope at its "working load" (generally accepted as
+20% of its breaking strength) will almost always be within the limits of 10%
+and 20%. However, it can be seen that at this stretch, the Tyrolean traverse
+becomes substantially equal to a two-point sling at an included angle of ,120°,
+im which the tension in each leg is equal to the load. Thus, it can be seen
+that a nylor rope used in a Tyrolean traverse can support a load approximately
+equal to its a safe working load" without grossly exceeding this stress.
+200
+The angle A at: which a load of 200 lbs. will produce a rope stress of 530
+Ibs, will now be calculated. This represents one man on a traverse of k-inch
+manila rope,
+200 = 2 (530) sin A
+sinin
+sin: A =-
+T = 0.18868
+. 21530) :7.
+A = 10052.61
+SEC A = 1,0183
+SEC. A -1 = rope stretch
+rope stretch = 1.83%
+Since a manila rope stretches about 3% when dry, and 10% when wet, it can
+be pulled up tight. (By pulled up tighth, it is meant pulled up as tight as
+passible by hand. Use of rigging, such as a 2-prusik 2-karabiner hoist, will
+take up some of the rope stretch. While this is unimportant in nylon, it can
+cause the stresses to be excessive in dry manila.)

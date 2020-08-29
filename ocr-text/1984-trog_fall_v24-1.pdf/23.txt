@@ -1,0 +1,53 @@
+21
+Approximately 20 miles of passage has been mapped thus far,
+but many miles of passage still need to be done.
+Karst areas, like Skydusky, are known for their caves
+and sinking streams. This means that much of the water does
+not run above the ground but under it, putting farmers at a
+disadvantage during serious drought conditions. Using cave
+entrance coordinates on the topo map to orient the under-
+ground surveys, one could produce a bi-level map showing the
+underground streams in relation to the surface topography
+which would be useful to the landowners in the event of an
+extremely serious drought,
+The bi-level map would also enable one to see, for the
+first time, the precise relative positions of the caves in
+the Skydusky Hollow system to one another,
+At the time of the writing of this article, the topo-
+graphic map had been completed and the three-dimensional
+(X,Y,Z) entrance coordinates had been given to Ed Devine, the
+keeper of the underground data. He is working on the
+underground part of the bi-level map.
+The need for an entrance location/topographic map has
+been apparent for many years, the problem was figuring out
+how to best make one. Skydusky is too large and mountainous
+an area to realistically attempt a Brunton or Suunto and tape
+mapping project, as a few cavers discovered the hard way. I
+decided to use my connections as a Civil Engineering/
+Surveying major to try to attack the problem with some
+serious equipment.
+I went to Dr. Johnson, head of the Geodetic engineering
+division in CE, in February, 1984 with my ideas saying
+Skydusky was a "classic, textbook, surveying project." He :
+said that it had potential as a project for the summer classi ..
+but that there would never be enough time to traverse to all
+the cave entrances, which would basically have defeated the
+whole purpose of the survey. He also expressed concern
+about the possibility of inquisitive cavers nosing around
+all of his valuable equipment once they realized its potential.
+Smart man.
+The solution he suggested was analytical photogrammetry,
+which happens to be my area of special interest in surveying.
+If I could find sutable metric aerial photographs of the area,
+he would consider having the summer surveying lab (CE 4420-
+Applied Surveying Problens) establish the control network
+necessary to interface the photographs and a stereoplotter
+so that I could compile the map photogrammetrically as an
+independent study project. The proposed map began to look
+more and more like a reality.
+PROJECT PLANNING AND RECONNAISSANCE
+Metric aerial photography used in analytical photogram-
+me try is taken with a precisely calibrated compound lens.
+aerial camera. It is "flown" in strips and the date, time,
+scale, and other data necessary for precise measurement are
+directly recorded on the image itself. This type of imagery

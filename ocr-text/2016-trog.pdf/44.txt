@@ -1,0 +1,40 @@
+grade the accuracy and precision of surveys to show how similar surveys could be.
+Grade 1 is a low accuracy sketch of the cave done without any sort of measurement.
+Grade 2 is usually a grade 1 sketch used to aid in a grade 3 survey.
+Grade 3 is a rough magnetic survey where horizontal and vertical angles are measured to
++2.5 ° with distances measured to +50 cm and a station position error less than 50 cm.
+Grade 4 is between grade 3 and 5.
+Grade 5 is a magnetic survey similar to grade 3 with tighter tolerances. Angles are +1 ° with
+distances accurate to 1 cm and station positions to less than 10 cm.
+Grade 6 is a magnetic survey more accurate than grade 5.
+While there are higher grades above grade 6 we won't get into them here. Feel free to look
+more into surveying techniques and their associated grading levels. Some of the higher levels
+require a great deal of training and practice.
+Errors
+Even through extreme diligence when recording survey data small errors overtime can add up
+by the time you reach the back of a cave. Only a couple millimeters at the start can compound
+to a cave survey being hundreds of feet off in the end. Loop closure can be a way to help re-
+duce but not completely eliminate some of these errors. By using alternative techniques to map
+points in the cave to known points in space you can "close the loop” on cave maps. One way to
+do this is place an antenna at points along the survey route and use a radio above ground to
+tag survey points to their global coordinates. Through doing this you can help detect and reduce
+survey errors to produce a more accurate map. Yes, this would make surveying the cave take
+even longer, but it would be more accurate!
+Emerging Technologies
+Though surveying is an incredibly important part of cave mapping newer technologies are be-
+ginning to replace the old point to point measurement technique. LIDAR, or Light Detection and
+Ranging, is a form of photography that uses invisible laser light to capture a picture of points
+with distance information for each point. Imagine a picture that doesn't use colors for each
+point but a distance away from the camera for each point. These pictures are sometimes called
+a point cloud because the distance information of each point can help paint a 3D picture of the
+scene that's being recorded.
+LIDAR cameras, or sensors, are incredibly accurate today. A plane carrying a LIDAR unit can im-
+age the ground thousands of feet below and still have an accuracy of 30 cm or better. Ground
+based LIDAR units that are closer to the surface they're trying to map have an accuracy of less
+than 1 cm. Think about it for a second, this is an entire 3D picture of the world around the sen-
+sor that is more accurate than the width of your finger.
+Cave Use
+Mapping a cave using LIDAR sensors would not only be more accurate than the tape and com-
+pass method but would also produce a 3D map of the entire cave. Mapping a cave using LIDAR
+sensors would consist of holding the sensor and walking through the cave using a software
+44

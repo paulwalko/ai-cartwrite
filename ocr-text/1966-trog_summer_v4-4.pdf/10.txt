@@ -1,0 +1,39 @@
+103
+by lacing one or two cartridges in each charge with primacord and
+then detonating the primacord with a blasting cap. The detonation
+velocity of primacord is about 21,000 feet per second, so the result
+is essentially instantaneous: tho cap detonates the primacord which
+in turn detonates the dynamite charges.
+knot >
+dynamite
+fuse
+27
+cap
+inc
+itraan
+tbt
+K direction of
+detonation
+primacord -
+clove hitch -
+(Figure 2). Primacord trunk line system.
+The use of primacord makes possible a number of very effective
+blasting techniques but there are a few tricks that should be used if
+you want to get good results:
+(1) The detonation of primacord is quite often unpredictable;
+sometimes it is unidirectional. For this reason don't place the blast-
+ing cap in the middle of a primacord line connecting two charges. Al-
+ways prime it about six inches from an end and always point the closed
+end of the cap in the desired direction of detonation. The cap is
+simply taped parallel to the primacord with electrical or adhesive tape.
+(2) The separate charges can be connected to a single primacord
+trunk line which can be detonated at one end. There are several knots
+which can be used to make connections with a trunk line. In principle,
+a knot which provides sufficient surface area and close contact between
+two lengths of primacord is good; however, the following are recommended:
+. (a) clove hitch - for connecting branch line to trunk line.
+(b) square knot way for splicing two lenkths of primacorr,
+Directions on how to tie these two rare, complicated knots are
+left to individual research by the reader.
+or
+&

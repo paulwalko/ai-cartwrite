@@ -1,0 +1,101 @@
+----------
+--
+COMMENTS
+You can tie the system onto the mainline in
+reverse order starting with the top Helical knot.
+This order of tying might allow you to make
+larger foot loops to take up some of the left
+over cord length and/or to bind up excess cord
+length in a knot near your feet and out of the
+way. I have never tried to tie on this way, but I
+suspect it would work well.
+As I mentioned, using one long cord allows you
+to carry one line in your cave pack that can be
+used for a handline, belay line, or for a knot
+system. If, however, you would prefer to have
+a system somewhat pre-cut and pre-rigged, you
+can use two shorter pieces. The bottom cord
+would go from your pre-tied foot loops to the
+lower Helical and then be connected to your D-
+ring with a pre-tied Figure Eight on a Bight.
+The top piece would go from the upper Helical
+to your D-ring with another pre-tied Figure
+Eight on a Bight (see Figure 5). In addition to
+convenience, another advantage of using two
+separate pieces to construct the system is that
+it results in two independent connections
+between the mainline and your D-ring, which is
+the preferred level of safety and redundancy in
+an ascending system.
+the lower Helical to the D-ring could be a
+problem because it might result in pulling on
+the tail of a Bowline knot. Based on
+observations and field practice, I don't think
+this is a problem if a Yosemite tie-off is used
+because it completes the Bowline knot and
+prevents it from deforming under irregular
+tension. With respect to the Helical's coils, it
+doesn't matter which line coming out of the
+knot you pull as long as the coils are being
+tensioned from below. This line would only be
+weighted if your top connection from the
+harness D-ring to the upper Helical was
+removed, i.e., the upper rope was cut or the
+upper knot broke. In a traditional 3-knot
+system, the removal of the upper connection to
+the rope would result in doing a heel-hang from
+the mainline rope. Remember to never push
+down on a Helical knot from the top of the
+coils. This will break the knot's grip and cause
+you to slide down the rope.
+I'm not really sure if this knot climbing system
+is easier than the traditional knot system, but it
+seems more intuitive and less labor intensive to
+me. It does have the disadvantage of not being
+acceptable for vertical competitions at OTR
+and NSS Convention. For competition
+purposes, you must use a traditional 3-knot
+system.
+I realize some of this may be difficult to picture
+without a demonstration. I would be happy to
+spend some time with anyone who is interested
+in learning to use this system, including but not
+limited to, prospective members who need
+their knots climbing requirement signed off. As
+with any vertical technique, this method is not
+set in stone. If you experiment with this knot
+system and find a way to improve upon it, I
+would really appreciate any insights you have.
+ACKNOWLEDGMENTS
+Chris Nicola and Bob Zimmerman, in addition
+to being the author and editor, respectively, of
+the original article, are both people whom I've
+had the good fortune to cave with, survey with,
+and learn from. After experimenting on my
+own with the instructions in their original
+article, I had the chance to talk with each of
+them about this knot system at different times,
+which was very helpful.
+UPPER
+LE HELICAL
+UPPER
+PIECE
+FIGURE 8
+ON A BIGHT
+---
+LOWER
+HELICAL
+Sam LOWER
+PIECE
+* DOUBLE FIGURE
+DE FOWLINE ON
+A BIGHT
+* THESE KNOTS CAN BE PRE- TIED WHEN
+CONSTRUCTING THE TWO-PIECE)
+VERSION OF THIS KNOT SYSTEM
+Figure 5 - Using Pre-cut Cord
+When I first-explained this knot system to a
+VPI caver, he thought that the connection of
+The Tech Troglodyte, Spring '02
+- 17
+-

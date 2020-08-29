@@ -1,0 +1,29 @@
+include sulfur oxidizing and reducing bacteria, nitrifying bacteria,
+and iron oxidizing bacteria.
+The most frequently found sulfur oxidizing bacteria of cave waters.
+include species of Thiobacillus such as T. thiooxidans and T. Cerrooxidans
+(Ford and Cullingford, 1976). T. thiooxidans can use sulfur in any
+incompletely oxidized fom, and this energy source is frequently found
+in cave waters. With elemental sulfur, it derives energy via equation
+1 below:
+Equations
+(Ford and Cullingford, 1976)
+1. 25 + 302 + 24,0 --------- 24,504
+2. 2NH4 + 30, --Nature
+(Nitrosification)
+3. HNO, + 30, Nitrobacter, HNO, + energy
+Nitrogononas or Nitrosococcus
+-> 2HNO, + 2H,0 + energy
+(Nitrification)
+Another species of Thiobacteria found in cave waters in Beggiatoa, which
+frequently oxidizes the hydrogen gulfide present (Vandel, 1965).
+Sulfur reducing bacteria are predominantly anaerobes, and one species
+commonly found is Desulfovibrio desulficurans (Ford and Cullingford, 1976).
+This organism obtains its growth energy from a mixture of sources, and
+similarly to Thiobacillus, is a facultative autotroph.
+The process of nitrification by aquatic cave microorganisms is two-step:
+the first step is the conversion of ammonia to nitrite and the second step
+is the conversion of nitrite to nitrate. These conversions, along with
+the organisms typically associated with them are shown in equations 2 and
+3 above, respectively.
+The frequency of occurence of nitrifying bacteria in pools and films

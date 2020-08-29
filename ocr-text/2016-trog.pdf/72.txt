@@ -1,0 +1,44 @@
+curved surfaces (i.e. the bars on a rack, or the curves of a figure 8). The normal force in this case is de-
+rived from the load on the rope and the geometry of the device itself. The diagram below details the geo-
+metric specifications of the forces at work:
+T+dT
+de BV
+TE
+Tudur
+kola
+To spare the reader the pain which is mathematical proof, and to summarize what is happening, the
+basic equation is as follows:
+T2=T MB
+There is a difference in the tension through the continuous rope whichh increases exponentially as the con-
+tact angle increases. If u is considered constant through the rope, then the only way to increase or de-
+crease resistance is to add or remove surface contact. This is done by either adding a bar or pushing the
+bars together on a rack, or changing the path of the rope through a figure 8, (specific examples to follow).
+Rack Friction
+In the case of the rack, both adding
+bars and pushing them together cre-
+ates a larger contact surface. Starting
+from the right, total contact angle is
+shown to be 315º. Adding two bar
+adds an additional 245°. Keeping the
+same number of bars, but pushing
+them together adds 240° of additional
+contact! From start to finish, the dif-
+ference in tension has increased by
+775%, which demonstrates the high
+level of safety and control provided
+by the rappelling rack.
+120°
+120°
+240°
+Total = 8000
+1050
+4.410
+Total = 3150
+1.7410
+Total = 560°
+3.211
+WA
+T, =T,/31
+T=T_/12
+TET 4
+72

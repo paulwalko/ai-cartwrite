@@ -1,0 +1,42 @@
+CAVING THE INTERNET
+If you've been above ground much at all in the last few years, you've heard the
+buzzwords: cyberspace; information superhighway; the Internet. So why should
+cavers care to read more about this in the Trog? Well, how would you like to have a
+daily conversation with cavers from around the world? At any time of day or night. To
+have hundreds of caver-lives worth of experience to draw on, or just to share some
+pleasant time with. The world of electronic communication can make this possible, and
+you don't need to know much about computers, or even own one, to make it happen.
+First off, what is the Internet (or cyberspace)? It is a group of computers
+connected by phone, satellite, and dedicated transmission lines so that they can pass
+information to one another. There are thousands of computers on the Internet, in
+every corner of the world, including computers at VT that you can access! The
+information superhighway is a project to provide better lines connecting these
+computers in the U.S. You don't need to know a thing about how the computers are
+connected, or how they find one another. It's been done for you.
+So, how do you "talks to other cavers using the Internet? One of the easiest
+features of the Internet to use is electronic mail, or e-mail. Much like postal service
+mail, electronic mail allows you to send a message to someone if you know their
+address. The difference is that electronic mail can be anywhere in the world in a
+matter of seconds. And the addresses look different. Mine, for example, is
+gshapiro @vt.edu . Bob Cosby is bob@vt.edu . The part after the @ is the computer
+that handles our mail. Everyone on the same computer has the same thing after the
+@ , just like everyone in a family has the same last name. The part before the @ is a
+personal identification, or PID. Everyone at vt.edu has a unique PID. Later I'll tell you
+how you can get a PID and an e-mail account.
+At least initially, you will not communicate directly with other cavers, but
+indirectly via an electronic mailing list. E-mail lists work like this: You send your
+message(s), if you have any, to the home address for the list. The computer at the
+home address then forwards your message to every other member of the list. When
+they read your message they can either send a reply to the list's home address, in
+which case the reply will also be forwarded to every member of the list, including you,
+or they can send a private reply directly to your e-mail address. Similarly, once you
+join a list, you can reply to forwarded messages either directly (privately) to the
+sender, or to the list address, in which case every other list member will see your
+reply.
+For example, as an experiment | posted to the Caver's Digest list a question
+about belay technique. There were 13 replies to the list, and one person replied to me
+privately, (shy, I guess). Eight of the respondents were in the USA, two each from
+Australia and the UK, one from Canada, and one from Brazil. Since my dad was
+going to Australia, I sent a private mail to one of the Aussie respondents, asking about
+restaurants in Melbourne. He gave some advice, and asked me to have my dad give
+him a call. Tons of info, and a new friend Down Under!

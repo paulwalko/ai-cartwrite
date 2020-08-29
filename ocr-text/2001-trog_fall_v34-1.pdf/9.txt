@@ -1,0 +1,63 @@
+To Test or Not to Test
+by Pam Mohr
+One day while practicing rope work at the
+Quarry, I dropped a biner. I dropped it about
+a lt about
+10 feet and it landed on rock. “Well, there goes
+$10," I thought. Being very frugal with money,
+I really did not want to retire a biner I'd only
+just purchased. Of course I should not have
+dropped it: it should have been tied on, so that
+it couldn't fall and be damaged. Even worse, it
+could've hit someone – someone I liked.
+So I learned the basics of not having any loose
+gear on me while on a rope. But what about the
+biner; is it safe to use or not? It really did not
+fall that far, but did I want to bet my life on
+"iffy" equipment? Caving and rope work is
+dangerous and difficult enough.
+So I decided to have the biner tested. I
+remembered that at a get-together in the past,
+Bob Simonds had offered to pull test any
+equipment folks might have questions about. I
+called him up at work and he said to bring the
+biner right over. Kirk, of course, found another
+retired biner lying around the house and we
+brought it along as well.
+A machine applies +
+A machine applies tension on the biner that is
+increasing at a constant rate, and graphs both
+the load applied and deformation of the tested
+item. See the graph below.
+Bob explained to us that if the biner had a flaw
+or weakness, the graph would not be a smooth
+constant sloping line, and that furthermore, the
+second line on the graph (drawn as the testing
+machine incrementally released load) would not
+closely approximate the first (drawn as load
+was applied). The only irregularities shown on
+the curves are caused by the gate beginning to
+load at approximately 500 pounds, which
+caused the biner to stretch less per additional
+pounds applied, and some small inconsistencies
+at the beginning of the test caused by a bit of
+slop in the test rig's attachment hardware.
+The biner was tested to a load of 3,000 pounds,
+way more than 10 times my weight. So I feel
+sure that the biner is now safe for me to use.
+ge
+Load: Xipa
+1200-
+Ix-end Dipp.
+1*.
+xxtensiter SerNet
+.
+Cipatat
+int
+Hut
+UN
+.
+..
+x-Nead Lisge. In
+Lawyers
+The Tech Troglodyte, Fall '01

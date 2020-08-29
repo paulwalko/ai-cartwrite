@@ -1,0 +1,47 @@
+27
+* Assumes manufacturer's suggested ultimate strength of unknotted,
+unsewn webbing as 4000 lbs.
+As can be seen, sewing parallel to the load direction is
+stronger in all cases than sewing perpendicular to load application.
+Even the bare minimum of 1 inch of longitudinal s'ewing. The only
+commercially sewn runner is the so called "rabbit runner".. sold by
+Forrest, The Forrest runner uses perpendicular sewing with a very
+thin nylon thread sewn extremely tightly packed. The manufacturer
+claims a strength of 3000 lbs. for this type of lateral sewing
+which is probably accurate considering the higher stitch density
+of commercial sewing. Considering the exorbitant price of commer-
+icially sewn runners, and considering that 3 inchs of longitudinal
+sewing are still very applicable to climbing and caving use. The
+important point is not to duplicate the lateral sewing pattern
+used commercially with your hand awl; you simply can't get the
+stitches dense enough to imitate the commercial job.
+Out of curosity we also tested the strength of the eye' splice
+in tenstron as commonly used to make prussik knots... As expected,
+the splice did not fail; being stronger than the tenstron itself :
+which failed at 1950 lbs. The specimens were all connected to the
+testing machine with Bonaiti steel non-backing oval carabiers
+to obtain a realistic bend in the sling loop. During the first
+test however one of the carabiners failed at a load not much higher
+than stamped on the carabiner as the factory test value! The
+carabiner failed where the gate clips into the frame ( the opposite
+end of the gate from the gate hinge) by shearing out of the frame.
+For those who still may be paranoid about sewing your own
+runners, a suggestion by Richard Cobb is the sewing in zig-zag
+patterns 45° to load direction. This should be stronger than even
+longitudinal sewing but of course will take much more time and effort.
+John Mummery
+LOAD
+LOAD
+LONGITUDINAL
+LATERAL
+LOOP :
+3",z",
+3" LOOP
+34,2"
+TESTED
+ESTED
+SEWING
+2
+പew | G
+* LOAD
+T LOAD

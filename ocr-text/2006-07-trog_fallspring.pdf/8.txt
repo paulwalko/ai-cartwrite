@@ -1,0 +1,47 @@
+Tech Troglydyte
+2006-2007 16
+How to Waterproof that
+Ten eerste
+Cheap Wal-Mart LED Lamp
+in 8 Easy Steps
+by Paul Healy
+Materials Needed
+Skill Level: 2.5/5
+Luck Level: 5/5
+Pill Bottle
+Wires
+Solder
+Toilet Paper Tube
+plus whatever other random
+stuff that might be useful or
+add that "homemade” look
+Step 1 Make a Mess
+This is probably the most critical step of this process. Find
+as much random electronics junk and as many related
+tools (like soldering irons and hammers) as possible.
+Dump everything on the floor and put a few tools on your
+work space. By making a mess, it will look to other
+people like you know what you're doing, and before you
+even begin you will feel as if you accomplished some-
+thing.
+Build Battery Connectors
+Using bottle caps indexed to hold
+the batteries, figure out how to
+Stuff the jumper assembly
+connect the batteries in series and
+with some foam and bits of
+fashion a jumper system to
+toilet paper roll into the pill
+accomplish this. Make the ugliest
+bottle to complete the battery
+solder globs you have ever seen
+to wire the jumpers, then heat
+press them into the bottle caps.*
+Step 2
+Step 3
+Stuff it
+box.
+K
+Step 4 Make a Connector
+Solder on a connector from an old SCSI hard
+drive controller card

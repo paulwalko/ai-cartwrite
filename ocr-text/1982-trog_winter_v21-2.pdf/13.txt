@@ -1,0 +1,52 @@
+RESULTS AND DISCUSSION
+Macroscopic examination of two failed lamp bottoms showed two types
+of cracking on each specimen: longitudinal cracks on the curved face of
+the base and circumferential cracks along the bottom lip of the base (See
+Figure 2). Since the longitudinal cracks did not cause failure in these
+samples they were not examined. The circumferential cracks swept out
+nearly ninety degree arcs and ran from the inner surface through to the
+outer surface.
+A cross sectional view of the entire lamp bottom revealed that the
+lower half of the base was formed by a stamping process. This stamping re-
+sulted in heavily cold worked grains along the bottom lip of the base, where
+the failure occured (See Figure 2, Section A-A). Metallography showed
+that the lamp consisted of single phase, alpha brass. It was also noted
+that the brass was "dirty", meaning that there was a significant amount
+of non-metallic inclusions in the metal. These inclusions, however, were
+not believed to play a major role in the cracking of the specimens.
+. Both examined sections showed multiple cracks originating from the
+inner surface of the lamp. The cracks branched frequently and formed
+secondary cracks all along the fracture surface (See Figures 3,5,6;7,8).
+The cracks ran intergranularly as well as transgranularly, along slip
+planes, and gave rise to a highly faceted fracture surface typical of
+brittle failures. Because the cracking occured on the heavily cold worked
+edge of the sample and because the crack pattern was brittle in appearance
+and highly branched, stress corrosion cracking (SCC) was the suspected
+mechanism of failure in this system;
+Stress in the base had three sources: 1) Residual bending stresses
+from cold work during fabrication, 2) Hard knocking and beating during
+usage, and 3) Wedging caused by the formation of less dense corrosion
+products at the crack tips. Of these, the bending stresses were the
+most important. Microscopically, The residual cold working stresses
+manifested themselves as strain markings which appeared in virtually
+every grain along the base's bottom rim (see Figure 3). The strain ,
+1
+markings, which are dislocation tangles, lie on brass' slip planes.-
+Transgranular cracks were observed along the slip planes (See Figure 3).
+These cracks appear because of the accumulation of dislocations and the
+ease of atom displacement along the slip planes. Residual stresses that
+result from cold work processing have been found to cauşe SCC in other
+alpha brass systems exposed to a corrosive environment.
+Sharp blows directly on the critical rim of the base are common
+occurences during usage. Rapping the base on rocks and helmets to assist .
+cleaning would lengthen pre-existing cracks and expose more surface to
+corrosion. A third source of stress was the wedging action that accompanied
+the formation of low density oxides on the walls of crack surfaces. The
+density of brass is 8.5 g/cc while the density of zinc and copper oxides
+are typically 6 g/cc. As the corrosion progressed the volume of the oxide
+products increased faster than the volume of the consumed metal decreased,
+causing the cracks to open mechanically.
+Corrosion in the lamp bottom took two forms. Plug type dezincification
+was observed on the inside bottom surface of the lamp, remote from the
+fracture (See Figure 4).
+...

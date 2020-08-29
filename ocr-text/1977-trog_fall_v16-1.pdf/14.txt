@@ -1,0 +1,43 @@
+COGITATE
+Cave Coordinate Calculations with a Programmable Calculator
+Bill Douty
+Ihe plotting of cave survey data by the use of a coordinate systein is fre-
+quently faster and more accurate than plotting oy bearing and distance, nowever,
+hand calculation of coordinates from raw data is a tine consumins process and
+virtually eliminates any advantage gained from use of the coordinate system. vue
+to this, a computer has been considered neccessary for reduction of survey data,
+Despite the speed with which a computer can process tnis data, the use of a com-
+puter is often made impracticle due to inaccessability, cost, or turn-around time..
+Now with the advent of the Hewlett-Packard (HP) 25, a low cost programmable
+hand calculator, reduction of cave survey data to coordinates can be done quickly
+and easily. ware systems will still require the use of a computer, but working
+maps or maps of short caves can be done very conveniently.
+weveral programs have been developed to use tne in- 25 to cooruinate cave
+data, and those that have been found to be most useful are presented here. These
+programs can be modified to work on other 11-P calculators.
+The programs receive the survey distance in feet, feet and inches, or in
+meters; the norizontal and vertical angles are given in de rees, the conversion
+of distance (feet to meters or meters to feet) and correction of the norizontal
+angle for declination are made by the program. the projrams will also keep a
+summa tion of surveyed distance and accept backsisnts.
+The main difference between programs is that Program I will take either azi- .
+muths or bearing will program 2 will take only azimutis. Program 2 will also roon
+track of the total number of courses.
+MODIFICATIONS
+NU INCHES
+if the distance is in feet or meters program lines 04 through 07 can be elim-
+inated when keying in the program, or by entering Giu 08 for line 04. Insert
+A Y and R between lines 13 and 14. Also skip program instruction step 7.
+MILS
+The programs do not account for mils, but the conversion can be made by mod-
+ifying the programs in order to convert ils to de rees the conversion (360/
+6400) must be stored in one of the registers both programs use all eisht of the
+registers, so one register must be eliminated. This modification uses the resister
+that is for the distance conversion; Register 6. Program 1 converts just the
+vertical angle since the horizontal angle is a bearing. Prosram 2 converts both
+horizontal and vertical angle. The only program instruction change will be in
+Step 4, which would be the conversion from inils to degrees.
+DMCASITES
+If all the courses are going to be bac sites (or a majority) store the conver-
+sion factor (S'IU 6) as a negative value. Note program 2 step 37 should now be
+plus (+). Umit comments 6 and 7 or nake any foresites distance a nejative.

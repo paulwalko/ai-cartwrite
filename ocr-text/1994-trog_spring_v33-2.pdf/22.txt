@@ -1,0 +1,36 @@
+A note about passwords. To maintain privacy on your account, and prevent
+unauthorized access, the password should be something that others cannot
+guess. Your name or PID are particularly bad choices. Computer security
+people even recommend against anything that is a word in a dictionary.
+STEP 5: JOIN A LIST!
+In all cases, a list is joined by sending an e-mail message to a special account
+that manages the list. This is not the account to which you will send messages
+destined for list distribution, I'll give you that account, too.
+Exactly how you send and receive mail depends upon the software that you are
+using. Get someone with experience to help you, or go to the Blacksburg
+Public Library, where the staff can give assistance.
+A. Caver's Digest Send a message to listproc@speleology.cs.yale.edu
+The message should be only one line: subscribe cavers-digest your name
+For instance, I sent the message subscribe cavers-digest jerry shapiro
+You will get a message back asking you to send a brief introduction of yourself
+to the list, along with information about the files associated with the list and how
+to get them, and general information about the list. You will also get a series of
+messages that list every topic ever posted to Caver's Digest. This can be a
+useful reference, as you can have the old messages sent to you.
+If you want to post a message to the list, send it to
+cavers@speleology.cs.yale.edu If you have any problems with the list, send
+a message to Robert Hubley at cavers-request@speleology.cs.yale.edu
+B. TAG-NET Send a message to tag-net-request@netcom.com The
+message should be two lines:
+subscribe tag-net
+help
+You will get back an informational message about the list and associated files
+and how to get them. You will need to post an introduction of yourself to the
+list before you are fully joined.
+Messages for list distribution are sent to tag-net@netcom.com
+Problems? Send e-mail to Jeff Dilcher at owner-tag-net@netcom.com
+C. OVR-CAVE Send a message to listserv@ukcc.uky.edu
+The message should be one line: sub ovr-cave your name
+For instance, I sent the message sub ovr-cave jerry shapiro
+To
+Fot.

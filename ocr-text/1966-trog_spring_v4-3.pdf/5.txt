@@ -1,0 +1,40 @@
+68
+THE VPI SPOTLIGHT
+: Ever notice how your trusty carbide lamp chooses to betray you
+when there is neither time nor place to discipline it? Like dangling
+above 200 feet of solid air? Don't throw it away! Just build the VPI
+Epotlight for a quick, bright, no-funbling substitute!
+With the Spotlight, you have the advantages of both types of
+light: steady, economical flame or sharp, instant beam. It is much
+brighter than a penlight and less bulky than a miner's lamp. A shock
+mount protects The Spotlight from all but the worst, and brim mounting
+leaves the hands free. The weight increase is quite small.
+(See Hardhat Detail)
+Four manganese (alkaline) penlight batteries supply the power,
+selected for their longer output per unit weight and size, as well as
+economy, over the zinc-carbon battery. A series-parallel configuation
+'yields three volts for more than twice as long as just two batteries.
+Use of a low current, three volt bulb, such as the PR-6, lengthens the
+time, also.. A PR-4 may be substituted at a sacrifice in time and the
+PR-2 drains too quickly.
+(See Spotlight Detail)
+Construction: The Spotlight itself is made from the flashlight head.
+Remove the lens and reflector. Drill small holes for the 1/16 inch
+connection screws in the metal shield and the bulb retainer. Insert
+the screws and tighten with the nuts. Drill a hole for the support
+screw just behind the lens and reflector positions. Insert the sup-
+port screw and a washer and tighten with a nut and washer. Reinsert
+the lens and relector, trimming their edges if necessary. Seal the
+head by filling the cavity in the head with filling compound, smoothing
+it over, . Observe curing time.
+(See Bulb Retainer Clip)
+Cut the small loop off the curtain hook and bend the ends about
+3/811 in. Drill two holes laterally opposite in the head, behind the
+reflector. Spring the curtain hook clip to fit. It should secure the
+bulb retainer by fitting in a small carved notch.
+(See Brim Support Detail)
+Drill a hole in the hat brim, larger than the support screw, to
+allow flexing. Put a grommet above and below and mount the Spotlight
+with a large washer and two nuts locked against each other so as to
+hold firmly while permitting the Spotlight to push back against the hat.
+(See Connection Detail)

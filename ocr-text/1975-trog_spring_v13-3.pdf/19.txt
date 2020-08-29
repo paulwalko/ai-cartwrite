@@ -1,0 +1,49 @@
+SPRING
+THE TECH TROGLODY I:
+1975
+IE
+No. of
+Pulleys
+B&T
+PB
+AL, REI Rescue Pulley
+(U=0,11)
+Ps
+those wouble ni winers
+(1=0.33)
+PB
+(P+1)
+(22)
+B&T
+DOT
+2 2 1.64 1.64
+1.20
+1.20
+3 4 . 1,81 2.41
+1.00
+1.34
+8 2.13 3.15
+1.10
+1.42
+2,38 3.72
+1,16
+Table 1. Efficiency characteristics of pulley systems with biners and Dulles.
+1,46
+The inspection of Table 1 reveals many intere.ting points. The advantages of
+the piggy back system over the block and tackle Sjotent are clearly indicatea in
+the Al and number of pulleys columns. Also the use of Carabiner systems wild in
+greater than 2 is shown to be self defeating. The ne of the biner 2 to i cholila
+be considered when one feels that he must use carried to change the directius
+of a rope being used for hauling. The indications are that very large aus Will
+be possible, even approaching Ius, if well made, inexpensive, sealed roller Deur-
+ing pulleys become available. Therefore, now üleci in bic: tuture, remember trio
+2 to 1 and the picey back systein.
+Fixed
+Point
+..
+2 to 1
+3 to 1
+5 to 1
+Figure 9. The weaker members of the family of block and tackle pulley
+arrangements. The triangle symbolizes a load and the ideal efficiencies
+of each arrangement is indicated.

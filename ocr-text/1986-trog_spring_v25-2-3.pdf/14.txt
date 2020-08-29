@@ -1,0 +1,38 @@
+TWO COMPUTER PROGRAMS FOR CAVE MAPPING
+Koichiro Takamizawa
+BY
+In the process of mapping caves, plotting the map takes as
+much time as surveying. Some of the plotting time is spent on
+calculating the survey data. In general, this calculation
+involves only simple trigonometry, and it can be done quite
+easily with a hand calculator. However, it becomes a bit
+tiresome after a while. Instead, the calculation can be done on
+a micro-computer to reduce some redundant calculations.
+. Here are two simple examples on the use of micro-computers
+in number crunching the survey data. The first one calculates
+two-dimensional projections of survey stations and their scaled
+coordinates on the map.. See Listing 1.
+: The second program calculates the closure error and its
+accuracy. Then it tries to adjust (fudge) data to make closure
+on the map. Listing 2.
+These are very simple programs, and should be applicable to
+to any computers available to you. I am also writing a more
+sophisticated program to handle other tasks. If you have any
+questions or suggestions to my programs please talk to me.
+Listing l.
+10 ' program to calculate 2 dimensional projection of survey data
+20 !
+30 PI=3.1415926#
+40 INPUT "scale 1 inch = ", SCALE
+50 INPUT "initial coordinate (x,y) ",XI,YI
+60 X=XI : Y=YI
+70. PRINT: PRINT
+80 INPUT "distance ",DIST
+90 IF DISTANCE = 0 THEN 160
+100 INPUT "azimuth. ", AZM
+110 INPUT "declInation ",DEC
+120 X=X+1/SCALE*DIST*COS (AZM*PI/180) *COS (DEC*PI/180)
+130 Y=Y+1/SCALE*DIST*SIN(AZM*PI/180) *COS (DEC *PI/180)
+140 PRINT "X = ";X, "y = ";Y
+150 GOTO 80
+160 END

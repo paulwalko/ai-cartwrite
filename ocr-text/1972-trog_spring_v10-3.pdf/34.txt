@@ -1,0 +1,57 @@
+32
+SPRING
+-
+THE TECH TROGLODYTE
+1972
+2
+N2
+crossectional area at the junction of the flat hook blade and
+the horizontal beami Such strain multiplying factors directly
+contribute to material failure when the lamp encounters caving
+obstacles. Similar poor design exists at the junction of the
+beam and the bolting plate. The bracket also holds the lamp much
+higher up and farther out than the brass model, increasing both
+it's collision vulnerability and the bearer's neck strain,
+The brass. lamp bracket could absorb tremendous blows and re-
+quired... simple rebending for repair. The 'lamp was also held
+much closer and lower than the plastic model: The above ment-
+ioned problems are fundamental design defects and should not
+have been permitted.
+FIX H: The old stamping machine could easily have been
+used to produce a brass bracket which could be superior to the
+plas tic one and only slightly different from the old design. If
+you want to make your own, try these two designs, the choice
+depending of the materials available to you:
+Design #1: For bendable materials such as brass.
+(Figure 2) Obtain a piece about 1 5/8" wide, 2 3/4" long and
+no more than 1/16" thick. Scratch the pattern of Figure 2 on
+the surface, and chew out the design with a hacksaw or nibbler.
+Drill the bolt holes, and cut the two slots to allow the bending
+of tension curves, Round the corners, and smooth the edges.
+Bend the bracket around a 1/4" drill or rod, using the wide area
+for greater strength, to slightly more than 180 degrees to tilt
+the lamp downwards. The "acorn" nuts may be replaced with
+regular hexnuts to increase the bracket clearance,
+Design #2: For brittle materials such as heavy aluminum.
+(Figure 3) Obtain a piece about. I 5/8" wide, 2" long and no .
+more than 1/16" thick. Scratch the pattern of Figure 3 on the
+surface, and hacksaw the shape. Drill the two bolt holes, round
+the corners, and smooth the edges. A slight bend will point
+the lamp slightly downwards,
+ITEM I: There is another hazard with the new lamp:
+the unexpected disingtegration of the lamp when the front brass
+bushing melts out. This "meltout" results in the loss of the
+entire tip and reflector assembly, Also, the freed acetylene gas
+represents both explosive and physiological dangers. "Meltout."
+most frequently occurs when the wind protector is attached to
+shield the base of the flame. The flame passes through the 1/4"
+diameter hole, and, by proximity and contact with the protector,
+it supplies' heat to the entire reflector assembly. Heat
+losses by convection and radiation from the shiny reflector
+are inadequate, consequently, most of the heat is conducted into
+the plastic, melting it in as short as a matter of seconds.
+Unfortunately, Justrite encourages the use of the wind protector
+supplying them with each lamp, and they fail to warn of the :
+possibility of "meltout". It should also be noted that"meltout"
+can occur under certain conditions without the protector, such
+as being relatively motionless, and pointed downward to capture

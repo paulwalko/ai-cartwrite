@@ -1,0 +1,40 @@
+CALCIUM CARBIDE
+Although a large majority of cavers in the United States: use
+calcium carbide lights, few of them know anything about the chemi-
+cal they pour in the base of the lamp. This article, hopefully,
+will provide a fairly complete picture of the history, manufacture,
+uses, and produders of calcium carbide,
+· Description. Calcium carbide (Ca) has a formula weight of
+64. to: and has four known crystalline modifications: one with
+cubic, one with tetragonal, and two with lower symmetry. The
+tetragonal formis prevalent in ordinary industrial carbide and is
+stable between 44700 and 2506,
+Pure calcium carbide is transparent and colorless. It can
+be produced, with difficulty, but is not manufactured commercially.
+It has no commercial use; none of its properties have been deter-
+mined definitely.
+Commercial calcium carbide (which will from now on be re-
+ferred to as "carbide") is a mixture of several chemical com-
+pounds. It is composed of calcium carbide (CaC,), excess lime
+(Cao), and small amounts of impurities. The nature and proper-
+ties of carbide depend upon the proportions of these materials
+in the carbide. Its color varies from steel gray to reddish brown.
+History. Although carbide was definitely made in the labrr-
+atory and accidently in side reactions in existing industrial re-
+actions long before 1890, it was either not isolated or not rec-
+ognized. Commercial production began in 1892 when a Frenchman
+and an American independently developed an economic process using
+an electric furnace. The industry expanded rapidly, anticipating
+the general adoption of acetylene lighting. When this failed to
+materialize, the new industry suffered from overproduction, leading
+to a crisis in France in 1899. Since then, the industry has de-
+veloped steadily.
+#
+Reactions. The most important chemical property of carbide
+is its reaction with water. This is a violent, exothermic re-
+action, and is the source of most of the acetylene used in indus-
+try. It is the same reaction that occurs in a carbide lamp:
+Cacz + 2H20 (1) --- Ca (OH)2 + C2H2 (g) + 29.9 Kg. cal..
+The heat produced in the base of the carbide lamp, as can
+be seen from the above equation comes from the heat-producing
+reaction of carbide with water.

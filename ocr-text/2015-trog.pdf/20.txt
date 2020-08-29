@@ -1,0 +1,46 @@
+20
+Safety Hazards of the Bowline with the Yosemite Back-off
+Tyrone S. Phillips
+Figure 1. Helical knot with a bowline and Yosemite back-off
+The VPI grotto teaches the helical knot with a bowline using
+the Yosemite back-off to climb rope for vertical caving shown in
+Figure 1. Typically two knots are used for feet and a top ascend-
+er. Alternatively, a top helical knot can be used in place of a top
+ascender. I was climbing out of Pighole in the early spring of
+2014 using knots, both for my feet and a top knot. I was climbing
+tandem with another caver with me above to expedite the climb
+out and we were making good time. About 20 feet from the top,
+just before we got to the lip, the top bowline had cinched very
+tightly to the helical making it really difficult to loosen and hin-
+dered my progress. The knot didn't look like it should; rather, it
+looked like what is shown in Figure 2. The knot had collapsed
+and turned into a noose. The last bit of climbing was a struggle,
+but once the lip of the pit was cleared I was able to climb the rest
+of the way out fairly easily. So what happened to my top knot?
+There are two different ways to tie the bowline with a Yo-
+semite back-off. The difference depends on the direction the
+working end goes around the main line. Figure 3 shows the incor-
+rect way which allows the back-off to slide around the working
+end. It looks very much like the correct way shown in Figure 4
+with only slight differences that can be missed in a dark cave.
+When I was climbing, I tied the knot the incorrect way and it
+resulted in the knot capsizing and turning into a noose. After
+some research, it turns out even when tied correctly the back-off
+can rotate around the standing line and capsize resulting in a
+noose. An example of the capsized knot is shown in the Youtube
+video in Reference [2].
+Figure 2. Collapsed Yosemite bowline
+The same user who shows the capsize of the Yosemite
+back-off offers an alternative back-off method shown in
+the video [3]. This back-off method has not been tested as
+stated in the video. The other alternative that I have been
+aware of in the VPI grotto is to back-off the bowline with
+an overhand knot. Another alternative published in 1988
+presents a knot called the double bight bowline. This knot
+is shown in Figure 5. The strength of this knot along with
+three others was compared for 4mm, 6mm, and 8mm rope
+given in Table 1. The strength of the double bight bowline
+supersedes all other bowlines tested. The bowline with the
+Yosemite back-off actually shows decreased strength
+(although by a very minor margin) for the 6mm and 8mm
+rope.

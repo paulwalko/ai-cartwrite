@@ -1,0 +1,51 @@
+Friction's Role in Vertical Caving:
+A Half-Assed Review of the Fundamentals of Rappelling Devices
+Or
+An Insight into the Physical Principles Preventing You from Plummet-
+ing to Your Gristly Death or Grievous Bodily Injury upon the Correct
+Employment of Friction Based Devices
+Tony Ratté
+Friction is experienced as a force which resists motion. The factors which determine the amount
+of resistance to motion, the magnitude of friction force, are twofold: a numerical representation of sur-
+face roughness, and the force perpendicular to the plane of motion. To enumerate the details:
+Frictional force F is proportional to normal force N; N being the force with which the
+surfaces push against one another.
+The friction coefficient u takes into account the roughness of both materials in contact
+with one another, in this case, the roughness of the rope and rappelling device.
+The frictional force can be found as follows:
+F=un
+Typical friction coefficient ranges for ropes of
+various materials sliding on smooth steel surfaces
+Friction coefficient - static
+Rope material
+Observe the table on the
+right. Under identical loading,
+the rope with a higher u value
+will produce a larger friction
+force. Note that the coefficient
+is different for dry and wet
+rope. This explains why it is
+easier or more difficult to rappel
+on different types of rope.
+Dry
+Wet
+Nylon
+Polyester
+Polypropylene
+Aramid
+HMPE
+0.1-0.12
+0.12-0.15
+0.08-0.11
+0.12–0.15
+0.08-0.11
+0.12-0.15
+0.15-0.17
+0.08-0.11
+0.15-0.17
+0.08-0.11
+Unfortunately, I did not find relevant coefficients for rope caked in mud after being dragged through a
+100 foot crawl, nor could I find any information on the friction coefficient of the steel cable permanent-
+ly rigged at the platform.
+In the case of the rappel devices commonly used by cavers, a rope under tension is passed over
+71

@@ -1,0 +1,87 @@
+PROGRAM 2 USERS GUIDE
+(For use with azimuth)
+Sum of coursos
+Azimuth
+Declination correction
+North coordinate
+Bast coordinato
+Distance conversion
+Elevation
+Total surveyed distance
+STEP
+INSTRUCTIONS
+INPUT
+KEYS
+OUTPUT
+COMMENTS
+Xey in program
+2
+Initializo
+1 STK
+(REG
+f PROHIM
+Input declination
+correction
+Docl, STO 5
+degrees
+East is positive
+Wost is negativo
+Con
+STO 6
+Input distance
+conversion
+Input Output Conversion
+feet feet 1.00
+feet meters 0.3048
+meters meters 1.00
+meters feet 1 / 0.3048
+·
+5
+Input Initial
+coordinates
+North
+East
+Elev
+STO 1
+STO 2
+STO 3
+If initial coordinates
+are zero skip step
+6
+Input distance
+Dis
+ENTERT
+For backsight change sign
+Input inches
+Inch
+ENTERT
+For backsight change sign
+Input 0.00 for no inches or meters
+Input azimuth
+Azim, ENTERT
+degrees
+9
+R/S
+North
+Input vertical
+angle
+Ver,
+degrees
+R/S
+R/>
+East
+ilev,
+10
+Input floor
+Floor A/S
+Floor cley.
+Repeat 6-9
+for successive
+courses
+ROL ?
+vistance
+Total survey
+distance
+Sum of courses
+RUDO
+Courses

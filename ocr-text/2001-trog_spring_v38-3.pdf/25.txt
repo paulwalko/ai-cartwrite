@@ -1,0 +1,33 @@
+VPI Cave Club
+Accident/Incident Report Form
+Date of Accident/Incident:
+Day of Week:
+Time:
+Caye:
+Called in by:
+Reported by:
+Name(s) of Person(s)
+Involved
+Age
+| Sex
+Experience
+Affiliation*
+*VPI is not a valid entry.
+Describe the accident as completely as possible below, using as few bad words as possible. Send
+the information to the Tech Troglodyte editor. Please use the checkboxs below as a guide for
+information to be included.
+We rescued:
+() a toad
+() a calf
+() a trainee
+() a baby snake
+() a dog
+() a math professor's student
+The rescue was:
+() fun
+() a stimulating and rewarding experience
+() boring
+() all Wil's fault
+Describe the accident here:
+24
+The Tech Troglodyte, Spring '01

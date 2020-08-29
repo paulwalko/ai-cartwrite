@@ -1,0 +1,42 @@
+Figure 2
+04 IN DE GREES
+tot
+A = 3/4" bar
+B = 3/4" bar
+- 1" bar
+D = 1" bar
+Ë 1" bar
+O" offset
+7/16" offset
+O" offset
+3/16" offset
+3/16" offset
+either cut
+square cut
+round cut
+10/16 9/
+168 /16
+7/16
+CLEAR SPACE BETWEEN BARS (Sc or s)
+800+
+Figure 3
+Figure 3
+800-
+700+
+600
+500
+TOTAL ANGLE CHANGE IN DE GREES
+* = 6 3/4" bars o" offset
+B = 6 3/4" bars 1/16" offset
+C4= 4 1" bars O" offset either cut
+Cg= 5 1" bars 1" offset either cut
+14 = 4 1" bars 3/10" offset square cut
+D5= 5 1" bars 3/16" offset square cut
+E4= 4 1" bars 3/16" offset round cut
+Es= 5 1" bars 3/16" offset round cut
+300-
+10/16
+9/16
+8/16
+7/16
+CLEAR SPACE BETWEEN BARS (Sc or s)

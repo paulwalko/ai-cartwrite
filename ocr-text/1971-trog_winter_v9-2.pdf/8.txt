@@ -1,0 +1,56 @@
+G
+W INTER
+THE TECH TROGLODYTE
+1971
+BROUGHTON - BRUNTON: STANDARD MODEL NO, 2*
+Technical Research Report X-8N48986
+*Arctic Patent Pending
+Introduction:
+For more than a year the Broughton-Brunton Standard
+Model No. 1 has found wide acceptance in exploration and
+surveying of Virginia's Great Dismal Swamp peat caves,
+Since man has extended his environment to the moon, Homo
+spelunkus has been thrust upon the new part of the last
+frontier, the lunar underground. Not to withstand the over-
+burdening weight of progress, the Equipment Research team,
+a permanent sitting committee of the Virginia Tech Cave Club
+has developed the Broughton-Brunton standard design to meet
+lunar specifications, as established by the Federal Arctic
+Commission on Surverying Standards and Instrumentation,
+Specifications:
+The most distinctive feature about the new design was
+the removal of the Butane gas jet from Model No, 1. Current
+scientific astrological observations on the lunar surface
+indicate insufficient amounts of oxygen and neon in the at-
+mosphere to support a live flame. As a result, the Model
+jjo. l's ability to burn through the peat walls is unapplic-
+able under the lunar surface. Because of the scientific
+error range of statistical probability, however, it is pos-
+sible that the lunar speleologists will uncover sizable per-
+contages of rare gases, including oxygen and neon, under-
+ground. The distance from the entrance is theoretically
+calculated to be greater than three earth miles as express-
+ed by the calculation:
+I'lllll -
+- dx - P(f(c)) + 1
+sinó
+where p is the probability of findins 20,5 oxygen trapped in
+a lunar cavity as a function of the distance f(x) from the
+entrance. (note: f(x) goes to infinity if there are more
+than one entrance). Further elaboration of the third der-
+rivative of the entegration of the above function, as well
+as its implications, are in a previous Technical Research
+Report of the connittee.
+P(f(x)) = (+0x3t
+The new jodel No.2 (figurel) has a built in 100 foot
+measuring wire (A) one millimeter in diameter. A special
+gold-aluninun alloy has been used for the survey wire as
+well as the coinpass housing to prevent magnetic deflections.
+At the end of the wire is a ganna ray source (B). When
+lined up with a revolutionary new radiation detector (C),
+a red light blinks (D) indicating that vector component x
+has been aligned.
+The unique feature of the Broughton-Brunton is that
+all directions are converted to earth-based directions,
+rendering lunar maps of some use to interested scientific
+personnel on the Earth, Miniaturized transistor-alplified

@@ -1,0 +1,62 @@
+26
+STRENGTH TESTS OF LONGITUDINAL VERSUS LATERAL
+SEWING IN 1" TUBULAR NYLON WEBBING
+A subject of debate amongst cavers who like to hand sew their
+caving gear with awl and heavy nylon thread is the matter of which
+direction or pattern of sewing is the strongest. The following .
+tests actually developed out of another common argument which is
+the relative strength of a knot verses sewing in tubular webbing.
+The desire to test these runners came about after one Bill Stephens
+refused to use my sewn runners in lieu of supposedly stronger
+knotted runners. The specimens tested are known in the climbing
+community as "quick-draws" or "rabbit runners"(the commericial
+name used by Forrest Mountaineering Inc.). Their popularity is due
+to the fact that they can easily be removed. quickly from the "rack"
+when hanging precariously, they can be used either doubled over or
+stretched out completely., and they cut down on the amount of sling
+needed to produce a runner. The use of webbing in this confiquration
+does not have much application in SRT directly but it provides
+a nice test specimen for the kinds of sewing that is used in vertical
+caving equipment.
+With the gracious help of Bob Simonds who provided lab as-
+sistance and the master craftsmen John Lohner who sewed the spec-
+imens, the following results were found.
+Longitudinal. Sewing
+(Stitching Parallel to Applied Load)
+. amount of
+sewing
+breaking
+strength (lbs)
+breaking stength as: *
+% of ultimate strength
+دیا N کا
+3500
+3400
+2625
+88%
+85%
+66%
+.
+Lateral Sewing
+(Stitching Perpendicular to applied Load)
+amount of
+sewing
+breaking
+strength (lbs)
+breaking strength as *
+% of ultimate strength
+دیا ا د
+2500
+1950 .
+63%
+49%
+37%
+1495
+Overhand Loop (Overhand on a bight)
+in place of Sewing
+breaking
+strength (lbs)
+breaking strength as *
+% of ultimate strength
+2500
+63%

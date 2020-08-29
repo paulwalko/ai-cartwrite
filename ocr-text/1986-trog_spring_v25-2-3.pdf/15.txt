@@ -1,0 +1,56 @@
+Listing 2
+10 ' program to calculate closure error, and to adjust closure
+error
+20
+30 DIM XI (200),YI (200),XN (200) , YN (200),XD (200) ,YD (200)
+40 PI=3.1415926#
+50 INPUT "scale l inch = ", SCALE
+60 INPUT "initial coordinate (x,y) ",XI,YI
+70 PRINT "input distance=0 to calculate closure error"
+80 XI (1)=XI : YI(1)=YI : CT=1
+90 PRINT : PRINT
+100 INPUT "distance ", DIST
+110 IF DIST = 0 THEN 250
+120 CT=CT+1
+130 INPUT "azimuth ", AZ
+140 INPUT "declination ", DC
+150 XD (CT ) =1/SCALE*DIST*COS (AZ*PI/180) *COS (DC*PI/180)
+160 XI (CT)=XI (CT-1)+XD (CT)
+170 YD (CT)=1/SCALE*DIST*SIN (AZ*PI/180) *COS (DC*PI/180)
+180 YI (CT)=YI (CT-1)+YD (CT)
+190 DS=SQR (XD (CT)^2+YD (CT)^2).
+200 TDIST=TDIST+DS
+210 XT=XT+XD (CT)
+220 YT=YT+YD (CT)
+230 PRINT "X = ";XI (CT), "y = ";YI (CT)
+240 GOTO 100
+250 PRINT : PRINT : PRINT
+260 PRINT "closure error =" ;
+270 PRINT USING
+"###.##";SQRT ((XI(CT) -XI(1))^2+ (YI (CT)-YI(1))^2)/TDIST*100
+280 PRINT
+290 PRINT "adjusting closure error"
+300 XE=XI (CT)-XI (1)
+310 YE=YI (CT) -YI (1)
+320 FOR I=2 TO CT
+330 XN (I)=XI (I)+XD (I) +XE/XT
+340 YN(I)=YI (I) +YD (I) *YE/YT
+350 NEXT I
+360 PRINT : PRINT
+370 PRINT "original x original y
+adjusted x adjusted y
+380 FOR I=1 TO CT
+390 PRINT USING"
+400 PRINT USING"
+###.## ###.## ";XN(I),YN (I)
+410 NEXT I
+420 END
+#
+#
+#
+#
+#
+#
+#
+#
+#

@@ -1,0 +1,59 @@
+21
+Figure 3. Incorrect Yosemite bowline [1]
+Figure 5. Double Bight bowline
+Table 2. Relative rope requirement (L/D)
+From
+[3]
+Regular bowline + overhand knot
+Yosemite back-off
+Mountaineering bowline + overhand
+Double bight bowline
+Double bight bowline + back-off
+Figure 4. Correct Yosemite bowline [1]
+Table 1. Knot strength (Kg) [1]
+4mm
+6mm
+8mm
+Regular bowline
+765
+259
+279
+276
+1089
+1003
+Yosemite back-off
+754
+Mountaineering bowline
+712
+1170
+Double bight bowline
+284
+779
+1244
+Figure 6. Double Bight bowline with back-off
+The double bight bowline knot length is also com-
+pared to the other knots in Table 2. The double bight
+bowline uses about ten percent less rope than the bow-
+line with the overhand back-off.
+Prohaska [1] describes the double bight bowline as
+simple, clear, easily inspected, and shows no perceptible
+tendency to capsize or work loose. In addition to sug-
+gesting the use of the double loop bowline in place of
+the Yosemite bowline, I propose an additional modifica-
+tion as a double back off. The double bight bowline
+working end extends out of the knot 90 degrees to the
+working line. The modification to this knot resembles
+the Yosemite back-off. The working end is wrapped
+around the closest loop and follows into the bowline
+loop retracing the standing line. The knot with this pro-
+posed back-off is shown in Figure 6, and the length of
+the knot is given in Table 2.
+References
+[1] Yosemite Bowline. “Yo-knot, the Yosemite bow-
+line alternative,” https://www.youtube.com/
+watch?v=4bdQB4xsxtg, 2012.
+[2] Yosemite Bowline. “Yosemite bowline not safe for
+climbing,” https:www.youtube.com/watch?
+v=1dj5Y3h1AEI, 2012.
+[3] Heinz Prohask. “A Safer Bowline for Climbers and
+Cavers,” Nylon Highway, Vol. 26, pp 4-6, 1988.

@@ -1,0 +1,141 @@
+-
+-
+WINTER
+1971
+THE TECHTROGLODYTE
+VPI COLOR CODE LIST
+Black bk :
+Blue b
+Brown br
+Green
+Gray
+Orange
+8
+gr
+0
+Pink
+Purple
+Red
+pk
+p
+r
+Silver
+White
+Yellow
+s
+W
+y
+g-b
+NAME
+COLOR
+Altman, Jin
+0-0-0
+Amundson, Bob r-w-r
+Barlow, Bob
+Billet, Bill bk-g-bk
+Bromm, Jeff : b-s-b
+Broughton, Paul
+Clifford, Mike
+br-g
+Coleman, Ned b-g-r
+Conef rey, Mike g-bk-5
+Cooke, Larry S-y-&
+Dame, Howard bk-r-y
+Davis, Jan
+0-g-y
+Davidson, Don bk-s-bk
+Dawson, Moose
+Douty, Bill : g-W-5
+Draves, Soug
+y-bk
+Ellenfield, Craig g-w-b
+Fagan, Joey.
+g-r--
+Frieders, Mike y-r-y
+Good, Boots bk-pk-bk
+Grube, Larry
+r-y-b
+Hall, Steve
+Hamii, Karl
+r-bk-r
+Harmon, Winston p-o-b
+Harris, Jim
+r-y-g
+Hixson, Ji!!
+r-gr-r
+Hogan, Mike
+r-g-bk
+Johnson, Tuna g-y-b
+Jones, Cheryl
+b-0-b
+Kayes, Mike
+b-g-w
+Laffoon, Don
+br-w-r
+Leach, Liz
+g-b-g
+LaFon, Robyn b-r-bk
+Leonard, Lenie p-pk-p
+Lewis, Bob
+w-y-b
+NAME
+COLOR
+Loud, Ed
+b-r-b
+McClevey, Dennis y-b-y
+McCarthy, Jean r-y-r
+Mohr, Pam
+b-gr-b
+Morgan, Ed
+Moss, Gary
+r-b
+Nelson, Neil
+r-bk-y
+O'Meara, Jack
+w-r-W
+Page, Bob
+b-y
+Park, Bill
+r-y-bk
+Parrot, Dale
+bk
+Perkins, Doug
+bk-w-r
+Peterson, Russ
+b
+Queisser, Janet
+Richardson, Ed
+b-y-b
+Riordan, Steve bk-y-bk
+Robinson, Steve o-bk-O
+Roehr, Tom
+r-o-r
+Schnaars, Pete
+r-W-b
+Slusarski, Mark bk-w-bk
+Stoutenburgh, Randy b-g-b
+Stringfellow, Bill g-r-g
+Talmadge, Jin
+r-s-r
+Thorne, Wes
+bk
+Turenne, Guy
+bk-r-bk
+Vigour, Tom
+8-W-8-W-8
+Vinzant, Lynn
+Webb, Dennis
+b-w-b
+Weber, Rick
+Whittemore, Annie r-g
+Whittemore, Whitt w-bk-y
+Wick, Nancy
+b-bk-b
+Wick, Robyn
+br
+Wright, Danny
+8-r-b
+*
+*
+*
+*

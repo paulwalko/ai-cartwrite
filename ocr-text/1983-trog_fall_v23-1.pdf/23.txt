@@ -1,0 +1,41 @@
+22
+TKNALITE
+A CAVER'S BEST FRIEND ?
+Lug
+Perhaps the most distinguishing feature of all commonly
+used spare light sourses is that they never work when you need
+them. Disenchantment with flickering, browned-out disposable :-
+flashlights has led many cavers to purchase the mercedes" of
+the mini-flashlight world - the TKNALITE. In the catalog it
+has everything going for it -- compact, lightweight, reuseable,
+durable, but in the cave its fickle performance is capable of :.:
+turning even the most mild-mannered caver into a ravening
+beast. What begins with a light rapping against one's palm
+usually ends with a brutal hammering against the nearest rock
+accompanied by much cursing and nashing of teeth. To make
+things worse, the little bastards are built so tough we are
+even denied the satisfaction of destroying one. What causes
+these savage attacks? Perhaps it's the fifteen dollar price
+tag, or the sense of helplessness and frustration as the dark
+closes in, or maybe it's just the stream of cold, muddy water
+that's slowly filling your crotch as you lay there fiddling
+with a stupid flashlight. Whatever the cause, the aggravation
+can be spared by a simple modification of the TKNALITE'S
+weakest.point; the rather tenuous contact between the base of
+the battery and the coil spring that runs the length of their
+light closing the circuit to the bulb. Performance can be
+improved by inserting a short machine screw, ball-bering, or
+other short metal object securely into the tight coils at the
+end of the spring. I used an aluminum cable crimp 7/32" in
+diam. and 5/32". long. Watever the object, it must fit tightly
+into the spring and its length must not exceed 5/32" or the
+flashlight will not close. This modification was fieldtested
+on one 21 hour Roppel trip and performed flawlessly. Perhaps
+this was not a sufficient test period to show the longterm
+effect of corrosion on the new contact, but one thing is for
+sure - it worked better than before!
+Bill Koerschner
+END-ON VIEW
+OF SPRING:
+PLACE METAL OBJECT.
+IN TIGHT COILS

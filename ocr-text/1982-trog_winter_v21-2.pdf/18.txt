@@ -1,0 +1,31 @@
+56
+RECOMMENDATIONS
+Inter and transgranular stress corrosion cracking caused the
+failure of the brass carbide lamp base at the sharp, strained
+bend formed during the making of the part.
+A stress relief anneal would most likely be the simplest way
+to avoid SCC in the base. This treatment would reduce the inter-
+nal stresses at the sharp bend and yet retain the hardness of the
+part. A full anneal is not recommended because of the resulting
+loss in strength that would result. Addition of arsenic (0.1%),
+phosphorous (0.4%), or silicon (2.2%) in small amounts to the
+alpha brass creates inhibited brass, which is much more resist-
+ant to corrosive attack and could eliminate the problem of
+dezincification altogether.
+For cavers a simpler solution would be to melt ordinary
+lead-tin solder into the bend of the base when the lamp is new.
+Care must be taken to keep the heating of the brass to a minimum
+or else the brass may dramatically lose strength. Finally, reg-
+ular and thorough cleaning of the base, with particular attention
+being paid to the crevice at the bottom of the lamp, can extend
+the life of the base significantly.
+REFERENCES
+Brick, Robert M., Alan W. Pense, and Robert B. Gordon: "Structure
+and Properties of Engineering Materials", p.76, McGraw-Hill Books, NY, 1977.
+- American Society for Metals: Corrosion Failures, "Metals Handbook
+Volume 10", 8th ed., p.168-205, Metals Park, Ohio, 0975.
+American Society for Metals: StressCorrosion Cracking, "Metals Handbook
+:· Volume10", 8th ed., p. 205-227, Metals Park, Ohio, 1975.
+Edelanu,c.: "Crack Propogation during Stress Corrosion", in "Physical
+Metallurgy of Stress Corrosion Fracture", p.90,Interscience Publishers,
+New York, 1959.

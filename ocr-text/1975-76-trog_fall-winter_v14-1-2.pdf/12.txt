@@ -1,0 +1,67 @@
+Fall/Winter
+The Tech Troglodyte
+1976
+....
+.
+-
+Boo-Boo's I Have Known
+Corrections to "Hauling, Part 1"
+From "The Tech Troglodyte", Vol. XIII, #3
+Equations 14 and 15 are inconsistant and should be replaced with the
+following:
+AE = LLP
+(14 substitute)
+10.5 + U
+which describes the behavior of the piggy back family of pulley systems.
+Where AE = actual effeciency, U = coefficient of kinetic friction, and P = the
+number of pulleys involved. Using equation 14 substitute, and the values of U
+given in the article, Table 1 will exhibit changes in columns 5 and 7, and read
+as follows:
+IE
+No. of
+Pulleys
+B+T PB
+(P+1) (2P)
+AE, REI Rescue Pulley
+(U=0.11)
+PB
+AE, Double Al Biners
+(U=0.33)
+B+T
+PB
+B+T
+2
+1.64
+1.20
+1.00
+1.20
+1.45
+1
+3
+4
+1.81
+1.64
+2.68
+4.35
+7.22
+1.10
+2.13
+2.38
+1.75
+2.11
+15 16
+1.16
+Table 1. Efficiency characteristics of pulley systems with biners and pulleys.
+• The advantage of using piggy back (PB) systems is shown most dramatically.
+Note that block and tackle (B ulley Systems using carabiners are self de-
+feating when IE (ideal effeciency) is greater than two.
+Thanks to Kirk MacGregor of Ontario, Canada for pointing out the discrepancy
+between equations 14 and 15.
+Don Davison
+About the Author:
+William Donald Davison Jr. was born June 28, 1947.
+He grew up strong and healthy in New Jersey. He
+lept tall doghouses in a single pound and was as
+fast as his toy locomotiveHe was recently over-
+weight and plays jacks with both hands. "It's just
+like belaying", he exclaimed.

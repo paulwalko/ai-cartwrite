@@ -1,0 +1,53 @@
+29
+scale factor, Leveling the model involves checking vertical
+control point elevations in the model and on the ground and
+tilting the model until these vary according to the scale
+factor,
+Professor Johnson did the mechanical parts of the C-8
+orientation because time was so short and it was such a
+complex process. The fact that Skydúsky, and thus the photo
+control network, was in the corner of both models made it
+even more challenging than usual; it was like we were trying
+to use a level in one corner to level a whole table. I
+learned many things during the hours of watching and helping
+with the orientation process though, like why most state-of-
+the-art plotters are equipped with microprocessors to handle
+much of the iterative orientation processes,
+Interfacing the Digitizer
+Being a German-born instrument, the C-8 is a metric
+machine so all of its gauges read in millimeters. Also,
+the stereomodel is not necessarily at the same scale or in
+the same position with respect to North as the map being
+compiled on the table. The model and map coordinate systems
+must some how be made to correspond to each other. The can
+be done by one of two ways: Pieces of information can be
+individually converted from one system to another, which is
+a pain, or one can use a neat little electronic device called
+a digitizer. I chose the digitizer,
+The device hooks up to electrical encoders on the C-8
+and registers movement in the X, Y&Z directions on a display
+panel. Scale, rotation and three-dimensional positional data
+are computed and fed into it via a key pad. After this
+orientation procedure is completed, the digitizer can perform
+many amazing little measuring tricks, if it's in a good mood.
+I used it to measure model distances and elevations during
+map oompilation,
+Compiling the Map
+Before beginning the compilation of the map, I got a
+1"=300" computer plotout of my photo control point file.
+I laid this under a sheet of mylar on the plotter table so
+that the plotted control points corresponded to the points
+in the model and then taped both securly down. These points
+of known elevation and position were transferred to the map
+and used to index the digitizer.
+The plotting head, which holds the pencil, and is
+connected to the X and Y. handwheels of the C-8 by a series
+of universal joints. The actual drawing of the map is done
+by putting the pencil in the down position so that it comes
+in contact with the mylar. In this position, the pencil
+draws lines corresponding to movement of the handwheels.
+It saves lots of time to have someone sitting at the plotter
+table during compilation to make sure the pencil is leaving
+a mark, tell the operator when two contour lines have crossed
+(a bad thing?, record spot elevations, darken in contour
+lines, or do things that you would have to get up from

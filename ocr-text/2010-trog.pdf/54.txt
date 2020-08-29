@@ -1,0 +1,42 @@
+54
+TRAXE 0.0
+DATUM
+PLAN AT SURFACE
+SIDE SLOT, 04N
+WIDE, THBS IP
+WITH DOME ALOW
+PLAN A-A
+04
+MUDROORB
++
+MUD FLOOR
+SMALL SHARP
+BREAKDOWN
+ADY STONE —
+-1
+.
+PLAN B-B
+PROFILE
+CUEVA DIA DE GRACIAS
+THANKSGIVING DAY CAVE
+NUEVO LEÓN, MEXICO
+LAOMOTERA, DISTRITO SANTIAGO
+TAG 67
+Aldmerkins are n meters.
+Total sunded length: 2.38 meter
+Total verta tent: 19.80 meter
+Cave is formed in breccted gray limestone with
+ww
+Suunto and tape survey by Bon Hutchins, Carol
+Zokotos and De Zokaltes November 27, 2009.
+Copyright © 2010, Jooph D. Zoals
+LEGEND
+88 BREAKDOWN
+XETGED PASSAGE
+G DETH OF DROP
+ELLING HESHT
+-BRATION BELOW DATUM
+1 7
+SCULE: 1 am - 2 m
+O
+Joe Zokates

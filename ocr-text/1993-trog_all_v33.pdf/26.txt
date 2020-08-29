@@ -1,0 +1,47 @@
+sed
+Step 2: Calcium Oxide Production (Cao)
+Calcium oxide is prepared by calcining limestone, or
+hydrated lime. The hydrated lime (spent carbide in caver jargon)
+can also come from acetylene generators. Generally, carbide
+production facilities have prepared calcium oxide (quick lime) by
+decomposing or "burning" a 98% calcium carbonate (CaCO3) to Cao
+and CO2. To prepare a satisfactory grade of carbide, the purity
+of the Cacoz and Cao must be 99%. Magnesium oxide impurity in the
+Cao is very undesirable since it increases both carbon and
+electrical power usage in the process.
+"The lime component" of calcium oxide production process "is
+usually quicklime with a grain size of up to 50mm. The Mgo
+content should be <1.5% and the total cao content should be
+higher than 90%."(Payne, 40).
+A typical lime is:
+Cao > 90%
+MgO > 1.5%
+CO2 < 2.5%
+P205 < 0.02%
+In the 1940's-1960's the hydrated lime [Ca (OH)) resulting
+from large scale carbide-to-water acetylene generators was dumped
+in large lime ponds or impounds. In the 1950's many plants were
+recycling and buying this by-product to manufacture carbide.
+"Up to 60% of the calcium hydroxide which forms when acetylene is
+prepared from carbide can be returned into the carbide furnace."
+(Payne, 40). Today there is no recycling mainly due to the fact
+that only two companies in the world today still using carbide to
+manufacture commercial grade acetylene. Some other uses of the
+hydrated lime are in waste water treatment plants, soil
+neutralizers, and sand lime bricks. (Tedeschi,9).
+| quicklime (Cao) + c --> Ca + co ; -25.3 kcal
+ca + 2C --> Cacz
+; +14.1 kcal
+Step 3: The Carbide Furnace (An Overview)
+The carbide furnace has been used since the beginning of the
+carbide industry. " The main features of the low shaft furnace
+are the furnace vessel, the electrodes for the supply of
+electrical energy, and the feeds for the introduction of the raw
+materials. (See diagram CAR-2).
+The furnace vessel is made of welded iron and reinforced
+against distortions. The vessel is lined with carbon or
+refractory bricks, and has up to three tap-holes which are
+arranged above the bottom of the lining and through which liquid
+carbide flows into cast-iron crucibles. The zones around the tap-
+holes have stronger linings and are usually provided with water
+24

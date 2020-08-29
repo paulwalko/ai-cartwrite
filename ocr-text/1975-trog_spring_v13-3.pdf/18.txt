@@ -1,0 +1,57 @@
+SPRING
+THE TECH TROGLODYTE
+1225
+The total load on the pulleys of each block equals 1:
+Iq = 12 = L.
+thus
+(6)
+(7)
+(8)
+x 1= 1 = P2 Xti
+The friction Fr, and fra, of each block is:
+ir, = U x L x P2
+and
+'r2 = U x 12 x P2
+respectively. Substituting equation 6 into equations 7 and 8 yields:
+Frı = 0 x 1 = fra
+The total friction of the B&T system, I'ra, is
+Frrr - Fri + Fr2
+or from equation 9.
+: fra = (U x L) + (0 x L) = 2(% )
+09)
+(10)
+(11)
+The force, i needed to move a load continuouoty with it pulley Systor 13
+equal to L/IE, the theoretical frictionless mini...it, plus the force necessary to
+overcome friction ( 2(U XL) as shown in equation iii. ithus frou equution 2,
+the actual efficiency, AL, of a Bál system of 2 blocks 13:
+AE = = I/IE + 210 x It “ 1716 + zu
+(izi
+The AE of a one block B&T system (IE = 2, only) in contrast is:
+E = 7/10 + 0 = 0.5t
+1:31
+since in this case L2, P2, and Fr2 are all zero.
+AE calculations for the 2 to 1 piggy back (20) series of pulley arrangements
+involves a power series because each pulley which is added to the system comes
+under the load experienced by the previous pulley. For example, in ticure 3
+the load on pulley Cis of that on pulley which carries of the load exper-
+ienced by pulley it. Thus for picty back systems:
+14 * 1/
+i
+IITTU IT7172057 1721717227...+ 772P-T)
+(i'ti
+or
+*---
+AE = –
+––
+x=P-1
+1/IE
++
+U
+)
+2-X
+(15)
+X=0
+Using equations 12, 13, and 15, and the values of ui 0.11 anu 0.33, excriirenlij
+determined for slightly used REI nylon rescue pulleys and nylon roie der two
+aluminum SMC carabiners respective.ly, table i was generated..

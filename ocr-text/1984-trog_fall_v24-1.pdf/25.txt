@@ -1,0 +1,51 @@
+23
+SKYDUSKY HOLLOW PHOTO CONTROL PROJECT
+Introduction
+A network of points of known geographical position is
+called a control network. There are basically two types:
+the vertical network, in which point. elevations with respect
+to a given datum are precisely known, and the horizontal
+network, in which X and Y point positions with respect to a
+given coordinate system (i,e. Virginia State Plane Coordinate
+System or Latitude and Longitude) are precisely known. A
+point whose position is precisely known in three dimensions
+may be simultaneously included in both horizontal and ver-
+tical control network. If the points in a network are'
+photo-identifiable (recognizable in the aerial photographs)
+and the spatial distances between points are computed, they
+can be used first to orient and then make measurements on the .
+stereoplotter. This network is known as photo control. .
+The members and instructors of CE 4420-Applied Surveying
+Problems, the seven credit summer surveying lab, established
+the photo control as one of their projects. Their objective
+was to survey enough horizontal and vertical control in three
+days to enable the orientation of the two stereomodels of the
+area and the subsequent compilation of a 10' contour
+interval topographic map at a scale of 1"=3001.
+Control Specifications
+The following minimum horizontal and vertical control
+requirements were specified in order to enable the fulfillment
+of the mapping objective:
+HORIZONTAL CONTROL:
+1. A minimum of three horizontal photo control points
+near the edges of the mapping area in each stereomodel.
+Points clearly identifiable (i.e. a prominent rock,
+power pole, fence or house corner) and also photo
+identifiable if intended for photo control use.
+Distances reduced to ground scale.
+Solar azimuths to orient the survey to true North.
+Photo control points located to a minimum accuracy of
+1/50th" at map scale, or 6' on the ground for a l"=300"
+map scale. However, since the map scale had not been
+definitely specified at the time of the survey, the
+points were located more accurately than the minimum
+value.
+6.
+Basic control 10 times more accurate than the photo
+control, or good to at least .6'.
+VERTICAL CONTROL:
+1. A minimum of four vertical control points near the
+edges of the mapping area in each stereomodel. These
+didn't have to be clearly point identifiable if the
+surrounding terrain was relatively flat.
+mijn

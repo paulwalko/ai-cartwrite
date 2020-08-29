@@ -1,0 +1,50 @@
+52
+---
+-
+Zinc leaching is also evident on the inside wall of the lamp, at the
+initial crack site (see Figure 3). The residue of dezincification is a
+porous,,brittle copper matrix that could easily initiate stress corrosion
+cracks. Zinc leaching of alpha brass is common in basic, unaerated,
+elevated temperature atmospheres, like the one found inside a carbide lamp.
+The second type of corrosion encountered was the oxidation of copper
+and zinc inside cracks to form an oxide film of uniform chemical com-
+position over the entire fracture surface. EDXA spot scans were taken at
+many different points on the fracture surface: Near the inside edge of
+the lamp, near the outside edge, near cracks and on crack faces. Each scan
+yielded the same surface composition (See Figure 10). Zinc leaching did
+not occur inside the cracks because there was no outward flow of material
+from there to the surface where it could be carried away.
+Corrosion was particularly heavy in the failed region because:
+1) The residual stresses there made the metal more susceptible to attack
+and 2) The geometry of the lamp created a difficult-to-clean crevice at
+the fracture site. Because the spent carbide can never be fully cleaned out
+from there the crevice is under constant chemical attack from the first
+time the lamp is used. However, corrosion will be heaviest when the lamp
+is being used because the temperature is high, and there is plenty of
+moisture to transport fresh calcium hydroxide to the growing cracks.
+The alpha brass carbide lamp bottom failed by stress corrosion cracking.
+In the first stages of failure dezincification of the lamp interior occured.
+The pores in the brittle copper residue in the cold worked crevice metal
+were the precursors of the corrosion cracks which would follow. In the
+second stage of failure the pits in the copper deepened and entered the brass.
+Once in the brass the cracks enlarged by 1) Residual fabrication stresses,
+2) Corrosion product wedging, and 3) Usage jars. The new exposed surfaces
+were then attacked by corrosives either on the slip planes (transgranular
+failure) or along grain boundaries (intergranular cracking). The cracks
+grew by this mechanism until failure occured.
+- LONGITUDINAL
+CRACKS
+CIRCUMFERENTIAL
+CRACK AT SHARP BEND
+FRACTURE SURFACE 2
+FRACTURE SURFACE
+(SEE FIG. 3)
+LOCATION OF HEAVILY
+COLD WORKED GRAINS
+SECTION
+B-B
+SECTION
+A-A
+Figure 2) Carbide lamp base showing failure sites. Section A-A was
+taken for metallographic examination and section B-B for
+SEM and EDXA.

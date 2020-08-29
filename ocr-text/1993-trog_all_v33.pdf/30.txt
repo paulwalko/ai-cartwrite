@@ -1,0 +1,49 @@
+Acetylene Production
+Cac2 + 2H,0 --> C2H2 + Ca(OH)2 ;AH298=-128 kJ Mole
+An 82% commercial grade of Cac, (equivalent to 300 liters
+C2H2 per kg) will give approximately 429 kcal of heat.
+Since most of us (except for...ghast!!! electric cavers)
+know about the process of making acetylene from carbide I will be
+brief by covering two different acetylene production processes
+from carbide; the wet process and the dry process.
+Wet Process:
+In the wet process "granular carbide is fed continụously
+into excess water; and the slurry is agitated by gas evolution
+and a mechanical generator. Generators of this type operate at
+about 60-80°C and pressures at 15-30psi. The spent slurry is
+continuously discharged as fresh carbide is added and acetylene
+removed." (Tedeschi,7). The ratios of water to carbide may vary as
+Payne states, "8:1 by weight"(33) while Tedeschi recommends "6:1
+by weight."(7).
+Most reaction generators are characterized by stirred water-
+containing reactor chamber, carbide hopper, carbide feed (screw
+hopper) device, acetylene water scrubber, and gas storage tank.
+They are also equipped with flash arrestors to prevent vapor
+explosions if the cooling of the reaction does not occur
+properly.
+Dry Process:
+This represents the process cavers use in their acetylene
+lamps. A large contained mass of calcium carbide is reacted with
+water applied at a fixed rate. The gas is vented off and burned
+at the lamp tip.
+Commercially, however, this process varied. Equal parts by
+weight of water and carbide are mixed and stirred. The gas is
+still pulled off, but then it is stored for bottling or future
+use. "The Prestolite Company, which controls United States
+Patents" on the following process is one of only a few companies
+still commercially producing and marketing carbide-based
+28
+-
+-
+-
+---
+-
+---
+----
+-
+----
+-
+-...
+---
+--------
+------
